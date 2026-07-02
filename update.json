@@ -1,6 +1,6 @@
 {
-  "notes": "Restores the complete 0.705 audio/player setup broker with the original LMS transport.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.713.tgz",
-  "sha256": "6915c230571d4bde644dde7d0861360ae21149dfca7752c6e52f18bd55a6fd92",
-  "version": "0.713"
+  "notes": "Normalizes generated, saved, discovered, and incoming player MAC addresses to lowercase.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.714.tgz",
+  "sha256": "4805e749f59738d1267915f30aeada447e871abcbc587aafc1b0f43df8f1caae",
+  "version": "0.714"
 }
