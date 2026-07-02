@@ -1,6 +1,6 @@
 {
-  "notes": "Adds a read-only Local Players page for MS-3 Clone and Open Mode hardware/session discovery.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.696.tgz",
-  "sha256": "a4f87395255ea3f3521698fcfb3c81bb36dadb21a4f5da7347b6b07e06200021",
-  "version": "0.696"
+  "notes": "Enables backed-up Open and MS-3 Clone local-player provisioning with stable A0-A4 MACs.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.697.tgz",
+  "sha256": "f1c0e255f0ed0c4c93bb9dbfdd98a7454d35da2c1c743d46df0360a03e06d16a",
+  "version": "0.697"
 }
