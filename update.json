@@ -1,6 +1,6 @@
 {
-  "notes": "Enforces pCP user-command naming rules for extra Squeezelite players and removes unsupported quotes.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.702.tgz",
-  "sha256": "6ca2a30ba5d6e2b03f8179ac50286d572649dd7c2ee820aca5db41ad98e9f7e1",
-  "version": "0.702"
+  "notes": "Handles pCP's split MAC arguments and explicitly replaces extra Squeezelite instances during Apply.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.703.tgz",
+  "sha256": "5fab021d0dee52d4530fd5f63884255a1c279a0ffe7d8c1ed0523942efc560b2",
+  "version": "0.703"
 }
