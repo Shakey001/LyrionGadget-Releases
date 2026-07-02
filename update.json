@@ -1,6 +1,6 @@
 {
-  "notes": "Aligns Setup RTI mapping with /api/players and gives /api/lms_root a connected player context.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.715.tgz",
-  "sha256": "8facb556d3c1a6755755d9d1a8357c4d5e1ef53b0aae8a0aac9d9c2c77a3dd6c",
-  "version": "0.715"
+  "notes": "Keeps JiveLite on the new main player and prevents stale PID files from blocking broker startup.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.716.tgz",
+  "sha256": "8ce5435ea9f0544d5ab2978933105f72d07dc12b141fbb9b5d8804fdc0697c9e",
+  "version": "0.716"
 }
