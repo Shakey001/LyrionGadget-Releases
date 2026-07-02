@@ -1,6 +1,6 @@
 {
-  "notes": "Makes local-player Apply transactional and automatically relaunches the original players if verification fails.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.699.tgz",
-  "sha256": "9b45956b92e4973217711b1e8de385e696044efb90dce0b54a7ca9255ab502c2",
-  "version": "0.699"
+  "notes": "Waits for delayed pCP Squeezelite startup before deciding whether player provisioning succeeded.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.700.tgz",
+  "sha256": "87c9df3dadc82ffa6dc0b59bc048332b46db4682ffc21264b68c115de6379abb",
+  "version": "0.700"
 }
