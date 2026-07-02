@@ -1,6 +1,6 @@
 {
-  "notes": "Restores persistent LMS RPC transport, serializes requests, and safely reconnects only after a transport failure.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.709.tgz",
-  "sha256": "dc7cc0f688fd23fef34beb1f31b6920731aa0f32782a68815b148d89d6286a6d",
-  "version": "0.709"
+  "notes": "Rolls LMS control transport back to the proven pre-0.706 implementation without changing player or audio configuration.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.710.tgz",
+  "sha256": "0baab3164935b559b75a224d966b151e7598d5473736068d0e61a3d523d01727",
+  "version": "0.710"
 }
