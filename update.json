@@ -1,6 +1,6 @@
 {
-  "notes": "Adds owner-driven GitHub update delivery through Advanced Setup.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.692.tgz",
-  "sha256": "56249363c83ac867f3899bdce0f025daeccb9595fb1cfba7ca4a10fe1ecacc89",
-  "version": "0.692"
+  "notes": "Corrects GitHub update-feed persistence and enables future webpage updates.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.693.tgz",
+  "sha256": "aa0d39f2a961fd4f6287884b718958c3789cd747301a665f9856545c64a8f2e0",
+  "version": "0.693"
 }
