@@ -1,6 +1,6 @@
 {
-  "notes": "Recreates and retries stale LMS HTTP sessions after player or broker restarts.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.706.tgz",
-  "sha256": "cd42e6fbc9a395bb8e7a31dcd33290c09dfd653bd49d8cbb5ec2a79e09a72569",
-  "version": "0.706"
+  "notes": "Uses fresh LMS RPC connections without disrupting concurrent queue and menu requests.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.707.tgz",
+  "sha256": "06e8bffb14bad80b1b29d3f624a7ef0748dbe626cbd3087ed74510afc95285a9",
+  "version": "0.707"
 }
