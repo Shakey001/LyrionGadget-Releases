@@ -1,6 +1,6 @@
 {
-  "notes": "Keeps JiveLite on the new main player and prevents stale PID files from blocking broker startup.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.716.tgz",
-  "sha256": "8ce5435ea9f0544d5ab2978933105f72d07dc12b141fbb9b5d8804fdc0697c9e",
-  "version": "0.716"
+  "notes": "Prevents a previous cover from being cached during rapid now-playing artwork changes.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.717.tgz",
+  "sha256": "bc379f2dd31286aaf4a2973e42c65ff92db27e92f16d40f79cf1b6d5af86da6d",
+  "version": "0.717"
 }
