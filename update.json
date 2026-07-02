@@ -1,6 +1,6 @@
 {
-  "notes": "Uses fresh LMS RPC connections without disrupting concurrent queue and menu requests.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.707.tgz",
-  "sha256": "06e8bffb14bad80b1b29d3f624a7ef0748dbe626cbd3087ed74510afc95285a9",
-  "version": "0.707"
+  "notes": "Serializes local LMS RPC requests to prevent dropped controls during queue and player refresh bursts.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.708.tgz",
+  "sha256": "14594458f5806b3c830a6d4ca4b044537cdfb4a2361afa413d0746d7a6d72eff",
+  "version": "0.708"
 }
