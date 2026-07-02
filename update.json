@@ -1,6 +1,6 @@
 {
-  "notes": "Supports friendly LMS and RTI player names while retaining pCP-safe underscore startup names.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.720.tgz",
-  "sha256": "6754d3a7f477411df0bac3c5a85f1720c23fbc1c60f26fcfe7ad0a689af6f41e",
-  "version": "0.720"
+  "notes": "Keeps pCP player tabs clickable by connecting local Squeezelite players through the unit LAN address.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.721.tgz",
+  "sha256": "ae165672c17121d40ae57829602b7d4a4d3fffac2583644993ba7d52a484fb7d",
+  "version": "0.721"
 }
