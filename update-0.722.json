@@ -1,0 +1,6 @@
+{
+  "notes": "Automatically refreshes local-player provisioning previews and clearly disables unavailable MS-3 Clone mode.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.722.tgz",
+  "sha256": "8db50358d2fb6902f132374694c9139f620e7c7dc42b52eac4407adf355e51dc",
+  "version": "0.722"
+}
