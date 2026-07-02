@@ -1,6 +1,6 @@
 {
-  "notes": "Keeps My Music source current and prevents TuneIn radio streams from being mislabeled as iHeart.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.694.tgz",
-  "sha256": "c8fff5b2041b788dff109ece5ec330fca1238fb1cce289f9e894b21436b404d2",
-  "version": "0.694"
+  "notes": "Exposes enabled source flags for RTI auto-configuration, including installed AirPlay/ShairTunes support.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.695.tgz",
+  "sha256": "d399da5e1edef60516a7eb3f3df2605b8ffc95cd19d1843a54548341f9c0b3e4",
+  "version": "0.695"
 }
