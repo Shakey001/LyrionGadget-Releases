@@ -1,6 +1,6 @@
 {
-  "notes": "Serializes local LMS RPC requests to prevent dropped controls during queue and player refresh bursts.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.708.tgz",
-  "sha256": "14594458f5806b3c830a6d4ca4b044537cdfb4a2361afa413d0746d7a6d72eff",
-  "version": "0.708"
+  "notes": "Restores persistent LMS RPC transport, serializes requests, and safely reconnects only after a transport failure.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.709.tgz",
+  "sha256": "dc7cc0f688fd23fef34beb1f31b6920731aa0f32782a68815b148d89d6286a6d",
+  "version": "0.709"
 }
