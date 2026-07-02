@@ -1,6 +1,6 @@
 {
-  "notes": "Quotes extra-player names in pCP tweak commands so names containing spaces remain valid.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.701.tgz",
-  "sha256": "e863ee0d32a536c9352fd6c6f8942c7a93b198fe97a7926b6033f4ff4684e04d",
-  "version": "0.701"
+  "notes": "Enforces pCP user-command naming rules for extra Squeezelite players and removes unsupported quotes.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.702.tgz",
+  "sha256": "6ca2a30ba5d6e2b03f8179ac50286d572649dd7c2ee820aca5db41ad98e9f7e1",
+  "version": "0.702"
 }
