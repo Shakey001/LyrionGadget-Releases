@@ -1,0 +1,6 @@
+{
+  "notes": "Adds commissioning controls for hostname, LMS library name, individual player enablement, and physical output testing.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.726.tgz",
+  "sha256": "3484e398cf628f0fa33497ada761b364d6ff7a59533f61e91eee3e5ec72e519f",
+  "version": "0.726"
+}
