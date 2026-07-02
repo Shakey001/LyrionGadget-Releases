@@ -1,6 +1,6 @@
 {
-  "notes": "Verifies the restarted Squeezelite process instead of relying on pCP's misleading restart exit code.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.698.tgz",
-  "sha256": "05c7e292fff8c23fdd40e0db85e3c621fe035b6e3359e5cb1640f1ff4a8958ee",
-  "version": "0.698"
+  "notes": "Makes local-player Apply transactional and automatically relaunches the original players if verification fails.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.699.tgz",
+  "sha256": "9b45956b92e4973217711b1e8de385e696044efb90dce0b54a7ca9255ab502c2",
+  "version": "0.699"
 }
