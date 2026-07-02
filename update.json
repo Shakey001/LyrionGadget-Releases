@@ -1,6 +1,6 @@
 {
-  "notes": "Highlights unsaved fixed-volume changes and warns before leaving the page.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.719.tgz",
-  "sha256": "db5c28d4f489c45f253098f0d6861b363d5afb2597a7a6423bdc3ef189021b03",
-  "version": "0.719"
+  "notes": "Supports friendly LMS and RTI player names while retaining pCP-safe underscore startup names.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.720.tgz",
+  "sha256": "6754d3a7f477411df0bac3c5a85f1720c23fbc1c60f26fcfe7ad0a689af6f41e",
+  "version": "0.720"
 }
