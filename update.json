@@ -1,6 +1,6 @@
 {
-  "notes": "Make iHeart region shortcut select Live Stations by Genre directly",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.771.tgz",
-  "sha256": "d29040b850a7852091e5d926b409059072da50475d924faaa00eefa6ad920be9",
-  "version": "0.771"
+  "notes": "Make iHeart live genre shortcut honor selected region",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.772.tgz",
+  "sha256": "df8210dd310efa42761cc7ed6b671e68a6c676c20ab562011347d9fdb6ea62d0",
+  "version": "0.772"
 }
