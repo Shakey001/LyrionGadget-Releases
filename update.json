@@ -1,6 +1,6 @@
 {
-  "notes": "Clear successful System page service messages automatically.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.761.tgz",
-  "sha256": "1e3f716bac0d76874a8918c8354fe2a4fe453611d8f434d434938d24c07f56ca",
-  "version": "0.761"
+  "notes": "Recover System page buttons after restart and reboot reconnects.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.762.tgz",
+  "sha256": "b289c473bbb2a16a1407c98153712e6d3b07dffd0806c164561feaa07257bfce",
+  "version": "0.762"
 }
