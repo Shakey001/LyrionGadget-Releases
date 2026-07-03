@@ -1,0 +1,6 @@
+{
+  "notes": "Save hostname like pCP and prompt reboot to apply",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.751.tgz",
+  "sha256": "8fbe5c125b3384e8c0646ec7573a5f391045fcce7bd8b751003c18b7acb235ce",
+  "version": "0.751"
+}

@@ -1,6 +1,6 @@
 {
-  "notes": "Apply hostname live and open LMS default settings pages",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.750.tgz",
-  "sha256": "68be5f84d2fe39eaedabc04555f2df5fa5e881f0f925506302a677b41cc5b21c",
-  "version": "0.750"
+  "notes": "Save hostname like pCP and prompt reboot to apply",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.751.tgz",
+  "sha256": "8fbe5c125b3384e8c0646ec7573a5f391045fcce7bd8b751003c18b7acb235ce",
+  "version": "0.751"
 }
