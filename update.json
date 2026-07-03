@@ -1,6 +1,6 @@
 {
-  "notes": "Move curated plugin setup to Setup page and broker rollback to Advanced",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.745.tgz",
-  "sha256": "c59034364abcc32e8f1b7c5af02b2149b8ae429fbac9f1cf50649326458a0707",
-  "version": "0.745"
+  "notes": "Add local player start stop restart controls and JiveLite mapping notes",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.746.tgz",
+  "sha256": "d2339cd50022420df22c7f1531b3fa11331c02d22cec55b554b15490bab5a959",
+  "version": "0.746"
 }
