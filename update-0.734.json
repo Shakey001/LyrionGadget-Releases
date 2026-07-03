@@ -1,0 +1,6 @@
+{
+  "notes": "Open LMS plugin settings through a broker wrapper with Save and Close controls.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.734.tgz",
+  "sha256": "24fac5186ecb5845e0fac914edcb6cf95484b3475387083d55f7b36d70d49699",
+  "version": "0.734"
+}
