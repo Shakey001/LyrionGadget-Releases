@@ -1,0 +1,6 @@
+{
+  "notes": "Fixes the System page renderer and moves hostname/LMS identity controls to System commissioning.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.728.tgz",
+  "sha256": "feb31c64b27ef6ff766744b2fcb18d4b995188801e01baa812466bf09499c9e3",
+  "version": "0.728"
+}
