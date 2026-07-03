@@ -1,6 +1,6 @@
 {
-  "notes": "Simplify Pandora account settings by removing redundant account enable checkbox.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.739.tgz",
-  "sha256": "979b34a8efbd24934f1ebd5c3c1a397db61733bcca8e2ff8108c3c663bbb51e9",
-  "version": "0.739"
+  "notes": "Show Needs Account cue for Pandora plugins without broker credentials.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.740.tgz",
+  "sha256": "85abcf983aa2fa6b1e5de437bec399d9ffb777e38a0e7cbc984b488f3fdeb534",
+  "version": "0.740"
 }
