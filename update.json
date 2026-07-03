@@ -1,6 +1,6 @@
 {
-  "notes": "Make Pandora Needs Account button orange and add default core home menu icons.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.741.tgz",
-  "sha256": "c440dbb1a097c609768421e5df047255ca7dbafe9fb5c1a00c7e74d4e4674272",
-  "version": "0.741"
+  "notes": "Prevent main setup save from clearing Pandora credentials and refresh parent after Pandora account save.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.742.tgz",
+  "sha256": "ad703aace185c912507c1e0314d7344af102f20aec07d5823f2fbb8c57d73022",
+  "version": "0.742"
 }
