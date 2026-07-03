@@ -1,6 +1,6 @@
 {
-  "notes": "Add local player start stop restart controls and JiveLite mapping notes",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.746.tgz",
-  "sha256": "d2339cd50022420df22c7f1531b3fa11331c02d22cec55b554b15490bab5a959",
-  "version": "0.746"
+  "notes": "Add System page storage and drive setup links",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.747.tgz",
+  "sha256": "287eb9b12497e2a82b3be6be3f0d7230310970bf636b07976812c09915d6167d",
+  "version": "0.747"
 }
