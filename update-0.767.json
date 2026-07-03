@@ -1,0 +1,6 @@
+{
+  "notes": "Add CPU load and memory status to the System page.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.767.tgz",
+  "sha256": "2f8819f92dfadb5f00711ebf306f8ed84c2b511ba94e728cc3f0045ba9109ca9",
+  "version": "0.767"
+}
