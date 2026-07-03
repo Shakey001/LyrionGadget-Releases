@@ -1,6 +1,6 @@
 {
-  "notes": "Make LMS restart service control use local service commands and update header connection state.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.756.tgz",
-  "sha256": "8c1c9c71285e5314a63d8a66ac1e832f1a26f9544770ebb9f173c2d9f1e5939d",
-  "version": "0.756"
+  "notes": "Make LMS restart fallback use verified pCP Stop then Start instead of fake restart success.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.757.tgz",
+  "sha256": "61a674b7fd0e857a074d31abf2e226c944b27c801193e97ec39b3ff10ad5a6f0",
+  "version": "0.757"
 }
