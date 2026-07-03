@@ -1,0 +1,6 @@
+{
+  "notes": "Keep LMS restart button waiting until LMS disconnects and reconnects.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.764.tgz",
+  "sha256": "0a00f86ec13a93f4924fee7474ed6f57f1e03534bfa4a17cd9e7d142e8ef9225",
+  "version": "0.764"
+}
