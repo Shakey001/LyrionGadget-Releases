@@ -1,0 +1,6 @@
+{
+  "notes": "Make normal commissioning pages usable without Advanced login and show plugin restart prompt near plugin actions.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.737.tgz",
+  "sha256": "ae0de7ffa720912235f29bb3ad70bb2c2ca95f89896a4d81dfc7e352eef6f3d5",
+  "version": "0.737"
+}
