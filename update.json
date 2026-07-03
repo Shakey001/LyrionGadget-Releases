@@ -1,6 +1,6 @@
 {
-  "notes": "Make iHeart live genre shortcut honor selected region",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.772.tgz",
-  "sha256": "df8210dd310efa42761cc7ed6b671e68a6c676c20ab562011347d9fdb6ea62d0",
-  "version": "0.772"
+  "notes": "Add Broker Light mode and RTI player inventory guardrails",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.773.tgz",
+  "sha256": "c2776175fd6686036b87b6b51e76ab3aa55d15cbb40812b20c1f83acd06c53e3",
+  "version": "0.773"
 }
