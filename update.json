@@ -1,6 +1,6 @@
 {
-  "notes": "Make LMS restart fallback use verified pCP Stop then Start instead of fake restart success.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.757.tgz",
-  "sha256": "61a674b7fd0e857a074d31abf2e226c944b27c801193e97ec39b3ff10ad5a6f0",
-  "version": "0.757"
+  "notes": "Use verified init-script stop/start for LMS restart on pCP.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.758.tgz",
+  "sha256": "edbd28c4f3dcbb0bd4a91637a15d9517ed0dd5405931badd607d1b0723a41651",
+  "version": "0.758"
 }
