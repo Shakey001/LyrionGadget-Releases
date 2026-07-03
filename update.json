@@ -1,6 +1,6 @@
 {
-  "notes": "Correct iHeart region shortcut target and show LMS restart state in header",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.770.tgz",
-  "sha256": "80422a0c264d46f87173bfa89b1f7249acb3a6f8002d86dc86d5d4fe101d61b7",
-  "version": "0.770"
+  "notes": "Make iHeart region shortcut select Live Stations by Genre directly",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.771.tgz",
+  "sha256": "d29040b850a7852091e5d926b409059072da50475d924faaa00eefa6ad920be9",
+  "version": "0.771"
 }
