@@ -1,6 +1,6 @@
 {
-  "notes": "Neutralize curated plugin action buttons and add optional iHeart direct-to-Genres region behavior.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.768.tgz",
-  "sha256": "992faace53747943f0091f15b5b01359812c95f3222fac2c9056bc3078ac6542",
-  "version": "0.768"
+  "notes": "Improve curated plugin restart refresh and iHeart region genre shortcut",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.769.tgz",
+  "sha256": "768951f00bdb06ed1e4f7b9157972301be8bc993f2239bf856ed291eb737eaa0",
+  "version": "0.769"
 }
