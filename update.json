@@ -1,6 +1,6 @@
 {
-  "notes": "Use pCP hostname CGI when saving hostname",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.752.tgz",
-  "sha256": "c3adda56d420da41735dc203c0ac66ec6bfd1a24725eda64c0e66f2349dd2fc5",
-  "version": "0.752"
+  "notes": "Prompt reboot when running hostname still needs update",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.753.tgz",
+  "sha256": "ad37f45ecfc0be6bfeabee745172da1e594ee8be347720a1bdfdadb001c597a2",
+  "version": "0.753"
 }
