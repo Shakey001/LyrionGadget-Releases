@@ -1,6 +1,6 @@
 {
-  "notes": "Show hostname and LMS connection state in the broker header.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.755.tgz",
-  "sha256": "f1718c89634bf118afbc06844d47ac24137361e8a9936cc394203744d4f1857e",
-  "version": "0.755"
+  "notes": "Make LMS restart service control use local service commands and update header connection state.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.756.tgz",
+  "sha256": "8c1c9c71285e5314a63d8a66ac1e832f1a26f9544770ebb9f173c2d9f1e5939d",
+  "version": "0.756"
 }
