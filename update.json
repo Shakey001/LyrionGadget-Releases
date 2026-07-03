@@ -1,6 +1,6 @@
 {
-  "notes": "Fix Pandora account settings popup 500 error",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.743.tgz",
-  "sha256": "12d66fc8c792aeaabeaccacc21b56a2e909397777122688738b90abdbe7b8198",
-  "version": "0.743"
+  "notes": "Refresh plugin page after saving Pandora account settings",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.744.tgz",
+  "sha256": "87ec4423e038842ff54aeda8ed8c2c70f61b8e32825fc448ba12102ac6416752",
+  "version": "0.744"
 }
