@@ -1,6 +1,6 @@
 {
-  "notes": "Add CPU load and memory status to the System page.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.767.tgz",
-  "sha256": "2f8819f92dfadb5f00711ebf306f8ed84c2b511ba94e728cc3f0045ba9109ca9",
-  "version": "0.767"
+  "notes": "Neutralize curated plugin action buttons and add optional iHeart direct-to-Genres region behavior.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.768.tgz",
+  "sha256": "992faace53747943f0091f15b5b01359812c95f3222fac2c9056bc3078ac6542",
+  "version": "0.768"
 }
