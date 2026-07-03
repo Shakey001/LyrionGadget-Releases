@@ -1,6 +1,6 @@
 {
-  "notes": "Add Broker Light mode and RTI player inventory guardrails",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.773.tgz",
-  "sha256": "c2776175fd6686036b87b6b51e76ab3aa55d15cbb40812b20c1f83acd06c53e3",
-  "version": "0.773"
+  "notes": "Repair broker light release package archive",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.774.tgz",
+  "sha256": "62f7108516ca2921ee186511e714a5f9a9bd057ab0e58ea7db54c38451a0b278",
+  "version": "0.774"
 }
