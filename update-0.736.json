@@ -1,0 +1,6 @@
+{
+  "notes": "Prompt to restart LMS immediately after curated plugin changes.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.736.tgz",
+  "sha256": "fee28a98a281b52a3a4dd40836556ffc83a94ecae92a0304dc390fd911c9559a",
+  "version": "0.736"
+}

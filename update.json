@@ -1,6 +1,6 @@
 {
-  "notes": "Keep broker-owned Pandora plugins available even when LMS plugin cache drops an entry.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.735.tgz",
-  "sha256": "0073cdfc76a5b91ac77192bd1cb4384c7acf3c8bf15edf93d5394330b1a5c034",
-  "version": "0.735"
+  "notes": "Prompt to restart LMS immediately after curated plugin changes.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.736.tgz",
+  "sha256": "fee28a98a281b52a3a4dd40836556ffc83a94ecae92a0304dc390fd911c9559a",
+  "version": "0.736"
 }
