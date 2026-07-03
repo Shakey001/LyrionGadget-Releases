@@ -1,0 +1,6 @@
+{
+  "notes": "Make header connection status live and harden broker restart control.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.759.tgz",
+  "sha256": "d717f01155b8cc6cad8fae0317760cfe5375c16aa08d2e5df8017069d1b4c9e2",
+  "version": "0.759"
+}
