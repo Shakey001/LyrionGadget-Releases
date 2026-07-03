@@ -1,0 +1,6 @@
+{
+  "notes": "Show hostname and LMS connection state in the broker header.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.755.tgz",
+  "sha256": "f1718c89634bf118afbc06844d47ac24137361e8a9936cc394203744d4f1857e",
+  "version": "0.755"
+}
