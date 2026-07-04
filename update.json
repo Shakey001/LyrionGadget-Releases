@@ -1,6 +1,6 @@
 {
-  "notes": "Normalize ALSA mixer levels for local player outputs and hide low-quality analog headphone outputs by default.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.788.tgz",
-  "sha256": "eba64a266f617f08d06d0c042711bd1e2f414d5a5aeeb2195081cf788290bca4",
-  "version": "0.788"
+  "notes": "Re-apply normalized ALSA mixer levels after broker startup so USB DAC levels survive pCP reboots.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.789.tgz",
+  "sha256": "28485ef92213e1cbc693f585e03f76d63b3bc59bebff5949db150bbafc81b4f7",
+  "version": "0.789"
 }
