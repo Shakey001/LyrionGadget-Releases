@@ -1,6 +1,6 @@
 {
-  "notes": "Hide Broker Light devices from RTI discovery and prevent Light mode from exporting RTI player mappings.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.787.tgz",
-  "sha256": "3ffbbb5ab2272a8af3cf1ae26f22b2ba927025c08e94a7df414e15f2197aff9a",
-  "version": "0.787"
+  "notes": "Normalize ALSA mixer levels for local player outputs and hide low-quality analog headphone outputs by default.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.788.tgz",
+  "sha256": "eba64a266f617f08d06d0c042711bd1e2f414d5a5aeeb2195081cf788290bca4",
+  "version": "0.788"
 }
