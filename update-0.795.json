@@ -1,0 +1,6 @@
+{
+  "notes": "Keep service buttons latched through broker/player restart cycles.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.795.tgz",
+  "sha256": "a19d597d1135a261fe95d570f7403ce0c0b4297793a46a95e09bbf607ab98a8b",
+  "version": "0.795"
+}
