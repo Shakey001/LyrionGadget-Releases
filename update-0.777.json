@@ -1,0 +1,6 @@
+{
+  "notes": "Add pCP watchdog so the broker is restarted automatically if it exits after boot. Bootlocal now starts the watchdog, which checks broker health every 30 seconds.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.777.tgz",
+  "sha256": "f720642c1942b22b21069510a2cf3038a1f726113fbdcd92dc820b8f81120bd1",
+  "version": "0.777"
+}
