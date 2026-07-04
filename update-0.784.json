@@ -1,0 +1,6 @@
+{
+  "notes": "Default generic pCP hostnames to Lyrion plus MAC suffix and persist pCP LMS autostart when switching Full/Light broker roles.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.784.tgz",
+  "sha256": "b83809d1e0e5a135f6b591808bcbb8c55acc15b34b183afb849b90324f2acb6e",
+  "version": "0.784"
+}
