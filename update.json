@@ -1,6 +1,6 @@
 {
-  "notes": "Re-apply normalized ALSA mixer levels after broker startup so USB DAC levels survive pCP reboots.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.789.tgz",
-  "sha256": "28485ef92213e1cbc693f585e03f76d63b3bc59bebff5949db150bbafc81b4f7",
-  "version": "0.789"
+  "notes": "Normalize ALSA mixer levels earlier after startup and repeat once for slower USB audio devices.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.790.tgz",
+  "sha256": "46847efe683e6e9bc96a3c5d30f567b17a4833a3e26e78c920fd5cc1f6dac539",
+  "version": "0.790"
 }
