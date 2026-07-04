@@ -1,6 +1,6 @@
 {
-  "notes": "Normalize ALSA mixer levels earlier after startup and repeat once for slower USB audio devices.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.790.tgz",
-  "sha256": "46847efe683e6e9bc96a3c5d30f567b17a4833a3e26e78c920fd5cc1f6dac539",
-  "version": "0.790"
+  "notes": "Add Pi5 DAC8x support with four broker-managed stereo ALSA outputs and DAC8x audio defaults.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.791.tgz",
+  "sha256": "0fa7b7dd093b61c47e8c5521763690bbbcd3a7a4375666ccfa54fa5b037cea63",
+  "version": "0.791"
 }
