@@ -1,0 +1,6 @@
+{
+  "notes": "Make pCP broker startup self-healing on slower hardware: wait longer at boot, verify health, retry startup, and restart stale broker processes that stop answering.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.776.tgz",
+  "sha256": "3fca2ac6516f1f24c7b4b19d22346f6ca43b87fdc731bb4ef8057c8b1bbbf3d9",
+  "version": "0.776"
+}
