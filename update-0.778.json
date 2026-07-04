@@ -1,0 +1,6 @@
+{
+  "notes": "Run the pCP watchdog detached from bootlocal with nohup and recover stale watchdog locks after unexpected termination.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.778.tgz",
+  "sha256": "7cfd029124cd9361618de20cea42614e45c584d7c34986410222ff0a673fb28c",
+  "version": "0.778"
+}
