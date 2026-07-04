@@ -1,0 +1,6 @@
+{
+  "notes": "Detach broker startup with setsid, reserve pCP USER_COMMAND_4 for startup, allow 9 RTI players while limiting each unit to 4 local players.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.781.tgz",
+  "sha256": "5868e762283f1365d32f26a8e1927eb5f66c67fc4091b29327ec88f2085f4912",
+  "version": "0.781"
+}
