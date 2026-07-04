@@ -1,6 +1,6 @@
 {
-  "notes": "Default Local Players provisioning preview to saved/current player count after reboot.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.793.tgz",
-  "sha256": "123ba4c09590339187ca8d65738640c5b069a9052447bc213df8ce7361e7d497",
-  "version": "0.793"
+  "notes": "Keep Restart Players controls busy until configured local players are running.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.794.tgz",
+  "sha256": "474a8fdc7c5dd3a627aca38c73bce140059c63ac8fdb3c5d75a403d0ecfe1a73",
+  "version": "0.794"
 }
