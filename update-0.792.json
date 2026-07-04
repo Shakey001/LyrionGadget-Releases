@@ -1,0 +1,6 @@
+{
+  "notes": "Use a shared DAC8x dmix base so four virtual stereo outputs can run at the same time.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.792.tgz",
+  "sha256": "255333ad1e2885f77b4f909ac7838b071b0ba2a5581bc187e97bd758a1276c62",
+  "version": "0.792"
+}
