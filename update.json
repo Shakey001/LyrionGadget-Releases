@@ -1,6 +1,6 @@
 {
-  "notes": "Use pCP Player/Player-Server mode switching for broker role changes and improve LMS discovery/deduping for Light mode.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.785.tgz",
-  "sha256": "84616ba6ce5c8e5bfb3f5ac68f14b430f43a4bc4f789f3fcb91925d44f88435f",
-  "version": "0.785"
+  "notes": "Warn when the LMS Target changes so local players are re-applied and RTI discovery is refreshed.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.786.tgz",
+  "sha256": "9636d303ce9d8ae6741305da1edade18c0c604c1f10f529253986f1a9102cf88",
+  "version": "0.786"
 }
