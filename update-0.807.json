@@ -1,0 +1,6 @@
+{
+  "notes": "Preserve Pi 4 user-command broker startup during install and repair.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.807.tgz",
+  "sha256": "eab2c28a9a06afd1c271a0be3e9ab3eb4c3c578080c6cb1e57437e6fdc12dac7",
+  "version": "0.807"
+}
