@@ -1,6 +1,6 @@
 {
-  "notes": "Map JiveLite to the configured HDMI player more reliably.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.800.tgz",
-  "sha256": "ed10122a715b8d0442c5f02c589e4286a32766c57a3d754403b9fffe8b639e7e",
-  "version": "0.800"
+  "notes": "Add JiveLite display player selection for HDMI outputs.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.801.tgz",
+  "sha256": "24d4ed97227eb747a007369f967c7631b65c14b91fc9cbbfd17083e2c9aae62a",
+  "version": "0.801"
 }
