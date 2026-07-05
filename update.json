@@ -1,6 +1,6 @@
 {
-  "notes": "Keep service buttons latched through broker/player restart cycles.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.795.tgz",
-  "sha256": "a19d597d1135a261fe95d570f7403ce0c0b4297793a46a95e09bbf607ab98a8b",
-  "version": "0.795"
+  "notes": "Add license state reporting and beta trial keys; fix reboot header status recovery.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.796.tgz",
+  "sha256": "9f9c4d2299694957919fa08144edca09f41baaa5d53d5a71f810584d812792a8",
+  "version": "0.796"
 }
