@@ -1,6 +1,6 @@
 {
-  "notes": "Add JiveLite display player selection for HDMI outputs.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.801.tgz",
-  "sha256": "24d4ed97227eb747a007369f967c7631b65c14b91fc9cbbfd17083e2c9aae62a",
-  "version": "0.801"
+  "notes": "Keep player provisioning hardware-driven across Pi models.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.802.tgz",
+  "sha256": "8c5d6bdc8cd6dbf067a13e82b5d3730bb76587b128e6f85d8799bbea3b13b4bf",
+  "version": "0.802"
 }
