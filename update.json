@@ -1,6 +1,6 @@
 {
-  "notes": "Keep DAC8x provisioning limited to Pi 5 product mode.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.803.tgz",
-  "sha256": "6d417eaa9fbc09c8f046b6e1ff3a732fce4fb938f821d8381c3d8fc99071bacf",
-  "version": "0.803"
+  "notes": "Keep friendly player names repaired after Squeezelite reconnects.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.804.tgz",
+  "sha256": "8d3b163c17ea75e3976975216877f7af4539b6b426710d84485fc09ce96a5684",
+  "version": "0.804"
 }
