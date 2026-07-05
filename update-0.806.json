@@ -1,0 +1,6 @@
+{
+  "notes": "Tighten MS-3 clone detection and reserve Pi 4 startup slot.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.806.tgz",
+  "sha256": "34cd318e3d1c631ff63348eec3cfd5698448610ca473797b9cc33b972b503a8e",
+  "version": "0.806"
+}
