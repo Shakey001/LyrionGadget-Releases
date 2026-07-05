@@ -1,0 +1,6 @@
+{
+  "notes": "Repair DAC8x ALSA dmix format and restart players after repair.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.797.tgz",
+  "sha256": "3384df1dc273e07e99282d19517e860f2f6a5077dbec7786cab4985032f858ab",
+  "version": "0.797"
+}

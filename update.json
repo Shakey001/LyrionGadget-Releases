@@ -1,6 +1,6 @@
 {
-  "notes": "Add license state reporting and beta trial keys; fix reboot header status recovery.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.796.tgz",
-  "sha256": "9f9c4d2299694957919fa08144edca09f41baaa5d53d5a71f810584d812792a8",
-  "version": "0.796"
+  "notes": "Repair DAC8x ALSA dmix format and restart players after repair.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.797.tgz",
+  "sha256": "3384df1dc273e07e99282d19517e860f2f6a5077dbec7786cab4985032f858ab",
+  "version": "0.797"
 }
