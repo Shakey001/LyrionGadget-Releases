@@ -1,6 +1,6 @@
 {
-  "notes": "Keep local player provisioning names tied to this unit.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.809.tgz",
-  "sha256": "bd559168aa7356d83ca01340828884bea46d2c462155d6ccd20125db89aae213",
-  "version": "0.809"
+  "notes": "Add HDMI provisioning note and keep local player names tied to this unit.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.810.tgz",
+  "sha256": "c8243fc3975d2ab264e79743cc0ad40cce533258b998bc534dfde765844169c7",
+  "version": "0.810"
 }
