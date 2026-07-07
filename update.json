@@ -1,6 +1,6 @@
 {
-  "notes": "Broker discovery now advertises Gadget ID for RTI IP recovery; ShairTunes is managed only when LMS exposes the real ShairTunes2W plugin.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.812.tgz",
-  "sha256": "043803eeb732cb1abc008ea6e4944d0d6d18c5d796059cd41ea5d7e42dde3532",
-  "version": "0.812"
+  "notes": "Treat Broker Light LMS target lookup failures as post-apply warnings so local player provisioning does not falsely report failure.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.813.tgz",
+  "sha256": "0be95b3ac6dd4f10767478da4c6662b330493ae5a5bf60c96c8446bb484f6ee3",
+  "version": "0.813"
 }
