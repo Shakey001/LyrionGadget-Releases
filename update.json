@@ -1,6 +1,6 @@
 {
-  "notes": "Make MS-3 Clone detection strict so extra output devices keep player setup in Open mode.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.826.tgz",
-  "sha256": "4cd7338b7502359adfaec12a956b699099382f10ee77a735f375c66f337c711f",
-  "version": "0.826"
+  "notes": "Add first-pass broker-hosted RTI web panel views for MAC-addressed control and browse web objects.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.827.tgz",
+  "sha256": "61ef9e867d7c52fa03a0629b9cefa6e35c34ca43513520b20f07d07adff1b95d",
+  "version": "0.827"
 }
