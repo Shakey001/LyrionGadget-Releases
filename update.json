@@ -1,6 +1,6 @@
 {
-  "notes": "Treat friendly and pCP startup player names as matching after Open-mode player apply.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.824.tgz",
-  "sha256": "66e3e48d3242cdc1b4668e82ee41e856637bde2335f676405721b3fddf2e58f1",
-  "version": "0.824"
+  "notes": "Trim RTI queue payloads and coalesce short queue bursts before WebSocket send.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.825.tgz",
+  "sha256": "3bb3df683a37c4c546cac70f77d37ff40eb994e99a42eb84cd59a917ccf403ab",
+  "version": "0.825"
 }
