@@ -1,0 +1,6 @@
+{
+  "notes": "Self-heal full broker local players to loopback LMS target.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.817.tgz",
+  "sha256": "9036f5df04a41665a74c083efeeb3c71204561c281d856e0d7ab645d4c1b25f8",
+  "version": "0.817"
+}
