@@ -1,6 +1,6 @@
 {
-  "notes": "Keep Player Setup in Open mode when the current pCP configuration uses the Lyrion local player stack.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.823.tgz",
-  "sha256": "301b4e0d6cb0b2392c7766304b7677c6a67b0a2fccc2f63132c5068d3efd34db",
-  "version": "0.823"
+  "notes": "Treat friendly and pCP startup player names as matching after Open-mode player apply.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.824.tgz",
+  "sha256": "66e3e48d3242cdc1b4668e82ee41e856637bde2335f676405721b3fddf2e58f1",
+  "version": "0.824"
 }
