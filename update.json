@@ -1,6 +1,6 @@
 {
-  "notes": "Trim RTI menu and favorites payloads before WebSocket send and log large menu payload sizes.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.821.tgz",
-  "sha256": "d4be3ddfbaeabcbece6da830dc1c5e80bfee8fd4538cf040cdaeb6bbca85f6eb",
-  "version": "0.821"
+  "notes": "Send row play capability hints and avoid RTI action decoding during menu render.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.822.tgz",
+  "sha256": "0dd5ea52af7ec5978f4c826ac5b4c3367cc71bac955db34d9b334ab08f8082bf",
+  "version": "0.822"
 }
