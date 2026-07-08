@@ -1,6 +1,6 @@
 {
-  "notes": "Send row play capability hints and avoid RTI action decoding during menu render.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.822.tgz",
-  "sha256": "0dd5ea52af7ec5978f4c826ac5b4c3367cc71bac955db34d9b334ab08f8082bf",
-  "version": "0.822"
+  "notes": "Keep Player Setup in Open mode when the current pCP configuration uses the Lyrion local player stack.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.823.tgz",
+  "sha256": "301b4e0d6cb0b2392c7766304b7677c6a67b0a2fccc2f63132c5068d3efd34db",
+  "version": "0.823"
 }
