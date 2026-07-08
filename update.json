@@ -1,6 +1,6 @@
 {
-  "notes": "Make broker-backed Pandora plugins use local broker proxy on full/local LMS and preserve saved Pandora account credentials.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.819.tgz",
-  "sha256": "8b0e080218cdd0c0ce8a5f49ab45732c8d83ecd39fa20f20f006728e40e98d0d",
-  "version": "0.819"
+  "notes": "Normalize LMS plugin repositories and keep only the current broker Pandora repository URL.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.820.tgz",
+  "sha256": "8d47fac3b7c432aa72526df576b263e450f98f421ff83987da7e0e00f486e9ac",
+  "version": "0.820"
 }

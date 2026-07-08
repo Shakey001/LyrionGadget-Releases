@@ -1,0 +1,6 @@
+{
+  "notes": "Normalize LMS plugin repositories and keep only the current broker Pandora repository URL.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.820.tgz",
+  "sha256": "8d47fac3b7c432aa72526df576b263e450f98f421ff83987da7e0e00f486e9ac",
+  "version": "0.820"
+}
