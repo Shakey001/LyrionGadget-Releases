@@ -1,6 +1,6 @@
 {
-  "notes": "Add first-pass broker-hosted RTI web panel views for MAC-addressed control and browse web objects.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.827.tgz",
-  "sha256": "61ef9e867d7c52fa03a0629b9cefa6e35c34ca43513520b20f07d07adff1b95d",
-  "version": "0.827"
+  "notes": "Install panel CSS/JS assets, redirect light broker panel URLs to the full broker, and add logo sizing fallback.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.828.tgz",
+  "sha256": "d405e687c58771791aa7de1d2c0495e8d6aba70af0038fa2fbade4d87bda9c36",
+  "version": "0.828"
 }
