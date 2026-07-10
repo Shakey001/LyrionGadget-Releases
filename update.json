@@ -1,6 +1,6 @@
 {
-  "notes": "Rework web panel toward Material-style footer, SVG icons, full now-playing cover view, and multi-pane details layout.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.836.tgz",
-  "sha256": "202a5af2fb9858a3c052add6452c8c8303a402b8571f73334e7ac46f281b3c15",
-  "version": "0.836"
+  "notes": "Add web panel list thumbnail view toggle and sync player sheet while improving details metadata.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.837.tgz",
+  "sha256": "32f613af3ed4f9071c17d47d8ca48dbb04e6da4edee5c0c088ffafaa72766027",
+  "version": "0.837"
 }
