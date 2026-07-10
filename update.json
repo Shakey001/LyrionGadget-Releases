@@ -1,6 +1,6 @@
 {
-  "notes": "Improve web panel transport refresh, now-playing state handling, and row play/open behavior.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.829.tgz",
-  "sha256": "ba565c9d62c293228b2ac148c7ce18120084bf16e3ca8c7331c5fc5f70cb8296",
-  "version": "0.829"
+  "notes": "Add broker-native panel state/control APIs and fixed-volume handling for web panel.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.830.tgz",
+  "sha256": "4ae91165349c27f0b7ae83209c6808377c02ced6814669a38e389d5cf05b0a24",
+  "version": "0.830"
 }
