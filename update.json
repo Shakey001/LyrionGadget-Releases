@@ -1,6 +1,6 @@
 {
-  "notes": "Make web panel transport controls flat icon style and restore menu list scrolling.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.835.tgz",
-  "sha256": "4f34d2015a3e12532b9a146930c8e45f3623da05d2a6f1e4ef8c79a4652ee20d",
-  "version": "0.835"
+  "notes": "Rework web panel toward Material-style footer, SVG icons, full now-playing cover view, and multi-pane details layout.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.836.tgz",
+  "sha256": "202a5af2fb9858a3c052add6452c8c8303a402b8571f73334e7ac46f281b3c15",
+  "version": "0.836"
 }
