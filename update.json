@@ -1,6 +1,6 @@
 {
-  "notes": "Refactor web panel layout toward Material-style browse, thumbnail, drawers, footer, cover, and details surfaces.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.838.tgz",
-  "sha256": "5e140a2db0bb226ff427007163af9b6fa5e1b1a77db812b61c5532c62f6aa060",
-  "version": "0.838"
+  "notes": "Remove large browse action buttons and stabilize web panel thumbnail grid layout.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.839.tgz",
+  "sha256": "b1725a25051def850fc512aaf2fd973858d19b99ac8d121a7324dcab85829b02",
+  "version": "0.839"
 }
