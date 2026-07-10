@@ -1,6 +1,6 @@
 {
-  "notes": "Add broker-native panel state/control APIs and fixed-volume handling for web panel.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.830.tgz",
-  "sha256": "4ae91165349c27f0b7ae83209c6808377c02ced6814669a38e389d5cf05b0a24",
-  "version": "0.830"
+  "notes": "Add web panel setup tab, fixed-output hiding, queue/details/cover panel views, and responsive Material-style panel controls.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.831.tgz",
+  "sha256": "15ee93385cde8d90405b42bd091112a6958d3d4ffcdc48a43ddcc478ff4fccde",
+  "version": "0.831"
 }
