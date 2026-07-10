@@ -1,6 +1,6 @@
 {
-  "notes": "Reshape web panel into a full-screen browse view with bottom transport, reliable queue drawer access, and cleaner details layout.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.833.tgz",
-  "sha256": "6f112c25e50ec9c3ad7cf0226944ca043541bdbec609be9b96c3c10f5dce79ef",
-  "version": "0.833"
+  "notes": "Simplify web panel header, use icon transport controls, remove redundant bottom cover/details buttons, and show connection state on the Lyrion logo.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.834.tgz",
+  "sha256": "dac2237b528338ec0d2910a373f8b8c48835f270c523cfe0e84b08d4fe1783d5",
+  "version": "0.834"
 }
