@@ -1,6 +1,6 @@
 {
-  "notes": "Install panel CSS/JS assets, redirect light broker panel URLs to the full broker, and add logo sizing fallback.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.828.tgz",
-  "sha256": "d405e687c58771791aa7de1d2c0495e8d6aba70af0038fa2fbade4d87bda9c36",
-  "version": "0.828"
+  "notes": "Improve web panel transport refresh, now-playing state handling, and row play/open behavior.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.829.tgz",
+  "sha256": "ba565c9d62c293228b2ac148c7ce18120084bf16e3ca8c7331c5fc5f70cb8296",
+  "version": "0.829"
 }
