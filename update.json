@@ -1,6 +1,6 @@
 {
-  "notes": "Add swipe queue drawer, large cover overlay controls, and details placeholders for lyrics and artist info.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.832.tgz",
-  "sha256": "be8b164cbf76f86a1cbfea17d4ee04342d82ff53fda012f78302d4618a146a53",
-  "version": "0.832"
+  "notes": "Reshape web panel into a full-screen browse view with bottom transport, reliable queue drawer access, and cleaner details layout.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.833.tgz",
+  "sha256": "6f112c25e50ec9c3ad7cf0226944ca043541bdbec609be9b96c3c10f5dce79ef",
+  "version": "0.833"
 }
