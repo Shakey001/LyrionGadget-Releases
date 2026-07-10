@@ -1,6 +1,6 @@
 {
-  "notes": "Remove large browse action buttons and stabilize web panel thumbnail grid layout.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.839.tgz",
-  "sha256": "b1725a25051def850fc512aaf2fd973858d19b99ac8d121a7324dcab85829b02",
-  "version": "0.839"
+  "notes": "Make web panel navigation icon-based and center stable thumbnail tiles closer to Material behavior.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.840.tgz",
+  "sha256": "1e1bc1153ce49a0e59492d5c41aa3a089b81645ee19ce8aa710a8a1f7fafe13d",
+  "version": "0.840"
 }
