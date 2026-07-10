@@ -1,6 +1,6 @@
 {
-  "notes": "Add web panel list thumbnail view toggle and sync player sheet while improving details metadata.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.837.tgz",
-  "sha256": "32f613af3ed4f9071c17d47d8ca48dbb04e6da4edee5c0c088ffafaa72766027",
-  "version": "0.837"
+  "notes": "Refactor web panel layout toward Material-style browse, thumbnail, drawers, footer, cover, and details surfaces.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.838.tgz",
+  "sha256": "5e140a2db0bb226ff427007163af9b6fa5e1b1a77db812b61c5532c62f6aa060",
+  "version": "0.838"
 }
