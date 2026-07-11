@@ -1,6 +1,6 @@
 {
-  "notes": "Redirect top-level broker Material URLs to LMS for native player selection.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.858.tgz",
-  "sha256": "543fefd568f84540c23913019ad9464e303572e3cf41b514b7b53f97588a3056",
-  "version": "0.858"
+  "notes": "Add Material Skin custom layer for RTI web panel colors and sync shortcut",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.859.tgz",
+  "sha256": "61a7e2c87a9f169de6c226ab5d781c9cdfc04c077df82223f06323b5b22d5583",
+  "version": "0.859"
 }
