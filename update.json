@@ -1,6 +1,6 @@
 {
-  "notes": "Lock Material header drawer and hide fixed volume controls",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.870.tgz",
-  "sha256": "9aa11000a48ec6f9083a871af2bd3f4d736195e4b29f1efd24b4eed06408713b",
-  "version": "0.870"
+  "notes": "Restore Material info icon and fix sync button behavior",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.871.tgz",
+  "sha256": "1ba6c02e018582c1466aae6aa1642e8e02b4b77c9d8136bb6519faa15e0fe370",
+  "version": "0.871"
 }
