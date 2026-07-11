@@ -1,6 +1,6 @@
 {
-  "notes": "Force Material player selection through Material's own store and bus.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.852.tgz",
-  "sha256": "e473d75784fa8051da558b83bdb22eb91e20787c234c227e1825263ccb9745cd",
-  "version": "0.852"
+  "notes": "Keep refreshing Material selected player until the UI leaves No Player.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.853.tgz",
+  "sha256": "afd588362a641b325c6fd91cb8b8aa42fdb91bb542de6f6f8a94265717f734ee",
+  "version": "0.853"
 }
