@@ -1,6 +1,6 @@
 {
-  "notes": "Forward browser headers through the Material proxy for CometD client context.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.856.tgz",
-  "sha256": "6cf884c2bdb59a4790da8f28b571d85c15b06914f38c92344dc3d804d248a013",
-  "version": "0.856"
+  "notes": "Launch Material directly on LMS while keeping broker entry URL.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.857.tgz",
+  "sha256": "954f7b57882b10edf62927d6fcf25e22f84a62483b45b1de52c994aecd7b1146",
+  "version": "0.857"
 }
