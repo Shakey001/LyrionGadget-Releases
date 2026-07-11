@@ -1,6 +1,6 @@
 {
-  "notes": "Add Material Skin custom layer for RTI web panel colors and sync shortcut",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.859.tgz",
-  "sha256": "61a7e2c87a9f169de6c226ab5d781c9cdfc04c077df82223f06323b5b22d5583",
-  "version": "0.859"
+  "notes": "Strengthen Material Skin colors and add floating sync shortcut",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.860.tgz",
+  "sha256": "1eb0835b053974ff055192af02f2e48e4650a650cb32341e224dc361f076203d",
+  "version": "0.860"
 }
