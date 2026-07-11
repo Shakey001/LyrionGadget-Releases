@@ -1,6 +1,6 @@
 {
-  "notes": "Tighten broker-native web panel layout for RTI web objects",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.888.tgz",
-  "sha256": "db31df9ed5898db19f4b00448b48cd0a5b3d518183ed1252a9ba19940d3ee2d7",
-  "version": "0.888"
+  "notes": "Use colorful Pandora icons on broker classic setup and RTI surfaces",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.889.tgz",
+  "sha256": "ab08aa1d4d8693ffe880aaea0439ea7982a046352e77153bc16f8174797a8234",
+  "version": "0.889"
 }
