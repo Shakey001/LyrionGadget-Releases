@@ -1,6 +1,6 @@
 {
-  "notes": "Stabilize web panel reconnect handling, flatten thumbnails when card art is off, and improve transport capability recovery.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.845.tgz",
-  "sha256": "22065d31afd89733724896448e8fb3d289300ebe6fcce01559edcaf4eeef4760",
-  "version": "0.845"
+  "notes": "Add broker-proxied Material panel experiment at /panel/material.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.846.tgz",
+  "sha256": "0faadb639ccb947d4386b73545fab025a90ad065e46c7500660417c4ad13a7d4",
+  "version": "0.846"
 }
