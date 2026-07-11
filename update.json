@@ -1,6 +1,6 @@
 {
-  "notes": "Use direct Material URLs and skip unchanged custom-layer writes",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.876.tgz",
-  "sha256": "a8a7c59435b25b43e5fea8fde2970484dc27aff168dd3b169f883fdcb2ae3661",
-  "version": "0.876"
+  "notes": "Restore broker Material launcher URLs",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.877.tgz",
+  "sha256": "fdb2330d50a8e819d55dbd28019b826b22ba8dd92bd888f742be8bf403ddce31",
+  "version": "0.877"
 }
