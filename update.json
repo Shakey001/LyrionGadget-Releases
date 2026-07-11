@@ -1,6 +1,6 @@
 {
-  "notes": "Move web panel to Material-style top toolbar toggles with left sync drawer, right queue drawer, compact browse header, swipe controls, and cleaned browse labels.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.842.tgz",
-  "sha256": "5e55d749e907fb0b671f72d9fae7e6a2dc0cdc68a062f7299fa3aefd6dbf4101",
-  "version": "0.842"
+  "notes": "Refine web panel Home/Back toolbar, sync drawer action, command-row icons, lighter thumbnails, and footer metadata layout.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.843.tgz",
+  "sha256": "d9ca21694a029724af26316f9b34a27d624c10c6511adac26cb2254e41669b73",
+  "version": "0.843"
 }
