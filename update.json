@@ -1,6 +1,6 @@
 {
-  "notes": "Make Material proxy fully transparent with no HTML injection.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.855.tgz",
-  "sha256": "13de00e0cff0e7df22204838de45411aac678f0903b0959fa6869684a16ea00c",
-  "version": "0.855"
+  "notes": "Forward browser headers through the Material proxy for CometD client context.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.856.tgz",
+  "sha256": "6cf884c2bdb59a4790da8f28b571d85c15b06914f38c92344dc3d804d248a013",
+  "version": "0.856"
 }
