@@ -1,6 +1,6 @@
 {
-  "notes": "Improve Material panel artwork proxy aliases and force requested player selection.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.848.tgz",
-  "sha256": "1f699ad110e160247a669f949791890cbf87411005e4ffbe68cd7c2aaff6dd93",
-  "version": "0.848"
+  "notes": "Force Material panel to select the requested player after app startup.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.849.tgz",
+  "sha256": "e2b46d6c5d2653056039c7c43030388f03733d1d6f9ceff31511c8177371bb95",
+  "version": "0.849"
 }
