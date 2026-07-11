@@ -1,6 +1,6 @@
 {
-  "notes": "Hide top chrome, make search icon-triggered, move sync to top-left sheet, keep queue above footer, and add conditional rating icons.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.841.tgz",
-  "sha256": "5db882dc6409d233446cab2b9d6f0b53c377105f2659e7035e73a62e14f0fd18",
-  "version": "0.841"
+  "notes": "Move web panel to Material-style top toolbar toggles with left sync drawer, right queue drawer, compact browse header, swipe controls, and cleaned browse labels.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.842.tgz",
+  "sha256": "5e55d749e907fb0b671f72d9fae7e6a2dc0cdc68a062f7299fa3aefd6dbf4101",
+  "version": "0.842"
 }
