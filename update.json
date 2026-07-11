@@ -1,6 +1,6 @@
 {
-  "notes": "Patch native MaterialSkin Pandora icon map",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.884.tgz",
-  "sha256": "c28c8503a6cd917dd7923274003f6f3edafd3d975bff2b3b811a134b5af63c2e",
-  "version": "0.884"
+  "notes": "Use Pyrrha-style Pandora Material icons with classic color fallback",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.885.tgz",
+  "sha256": "e8d11e117bafb5ef2b2f48d5309fe30d4962850ec9ef9e4d3ac0a24e7bc27f83",
+  "version": "0.885"
 }
