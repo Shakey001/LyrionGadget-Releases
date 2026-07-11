@@ -1,6 +1,6 @@
 {
-  "notes": "Keep classic Pandora icon and patch Material icon map",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.881.tgz",
-  "sha256": "5aae978c1a2dba3284c8d8fdd9405c933a8c21c53060fd23300f488cd6e4dca6",
-  "version": "0.881"
+  "notes": "Repair installed Pandora plugin icons and map Material-only Pandora icons",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.882.tgz",
+  "sha256": "533259e13cf32be7ce9dfe09dd1eb4456b72952e68d32af54dc28d4db26d03a7",
+  "version": "0.882"
 }
