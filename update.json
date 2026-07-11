@@ -1,6 +1,6 @@
 {
-  "notes": "Use colorful Pandora icons on broker classic setup and RTI surfaces",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.889.tgz",
-  "sha256": "ab08aa1d4d8693ffe880aaea0439ea7982a046352e77153bc16f8174797a8234",
-  "version": "0.889"
+  "notes": "Keep Open-mode local player sessions stable when pCP only reports the primary player",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.890.tgz",
+  "sha256": "675b5175073847bd08807342e096a82dbd27e859f38beb740a9bc9c74d55d706",
+  "version": "0.890"
 }
