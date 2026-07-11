@@ -1,6 +1,6 @@
 {
-  "notes": "Refine web panel Home/Back toolbar, sync drawer action, command-row icons, lighter thumbnails, and footer metadata layout.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.843.tgz",
-  "sha256": "d9ca21694a029724af26316f9b34a27d624c10c6511adac26cb2254e41669b73",
-  "version": "0.843"
+  "notes": "Tighten web panel home navigation, sync-all state, thumbnail card-art option, progress ticking, and transport capability flags.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.844.tgz",
+  "sha256": "45f12f1c38cc4c5021e97810882317ae624c5f23cdc64af21f6da6db65cf4c46",
+  "version": "0.844"
 }
