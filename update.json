@@ -1,6 +1,6 @@
 {
-  "notes": "Debounce Material skin cleanup for faster panel loading",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.875.tgz",
-  "sha256": "94d85053e111d1fba29f02c13f92f56d21c16bef00c75092bfa40b45581db10b",
-  "version": "0.875"
+  "notes": "Use direct Material URLs and skip unchanged custom-layer writes",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.876.tgz",
+  "sha256": "a8a7c59435b25b43e5fea8fde2970484dc27aff168dd3b169f883fdcb2ae3661",
+  "version": "0.876"
 }
