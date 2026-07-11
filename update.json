@@ -1,6 +1,6 @@
 {
-  "notes": "Use Material SVG path with classic color PNG fallback for Pandora",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.886.tgz",
-  "sha256": "28ce5d14213f4bfe6a1faf438ec561cd1b5dde27044929cb7f49a59f287ce1b8",
-  "version": "0.886"
+  "notes": "Remove Pandora Material icon workarounds and narrow startup repair",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.887.tgz",
+  "sha256": "a19f0919bdd289d5acc91459a1cd895a069eaefeb92b45838856590165e33a72",
+  "version": "0.887"
 }
