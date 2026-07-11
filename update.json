@@ -1,6 +1,6 @@
 {
-  "notes": "Lock player Material settings behind broker admin links",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.869.tgz",
-  "sha256": "91f6290985408df392292006631842712d98c544586ee72207b7bda214286c48",
-  "version": "0.869"
+  "notes": "Lock Material header drawer and hide fixed volume controls",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.870.tgz",
+  "sha256": "9aa11000a48ec6f9083a871af2bd3f4d736195e4b29f1efd24b4eed06408713b",
+  "version": "0.870"
 }
