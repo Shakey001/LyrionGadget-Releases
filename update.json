@@ -1,6 +1,6 @@
 {
-  "notes": "Use Pyrrha-style icon for custom Pandora apps",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.880.tgz",
-  "sha256": "972da388d971e639aaf147f97184175b1197bcba98c7846056922937f1ea6937",
-  "version": "0.880"
+  "notes": "Keep classic Pandora icon and patch Material icon map",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.881.tgz",
+  "sha256": "5aae978c1a2dba3284c8d8fdd9405c933a8c21c53060fd23300f488cd6e4dca6",
+  "version": "0.881"
 }
