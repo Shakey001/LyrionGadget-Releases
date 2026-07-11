@@ -1,6 +1,6 @@
 {
-  "notes": "Launch Material directly on LMS while keeping broker entry URL.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.857.tgz",
-  "sha256": "954f7b57882b10edf62927d6fcf25e22f84a62483b45b1de52c994aecd7b1146",
-  "version": "0.857"
+  "notes": "Redirect top-level broker Material URLs to LMS for native player selection.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.858.tgz",
+  "sha256": "543fefd568f84540c23913019ad9464e303572e3cf41b514b7b53f97588a3056",
+  "version": "0.858"
 }
