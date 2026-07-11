@@ -1,6 +1,6 @@
 {
-  "notes": "Restore Material info icon and fix sync button behavior",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.871.tgz",
-  "sha256": "1ba6c02e018582c1466aae6aa1642e8e02b4b77c9d8136bb6519faa15e0fe370",
-  "version": "0.871"
+  "notes": "Add Lyrion sync drawer for Material web panel",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.872.tgz",
+  "sha256": "d0641afa83c5d39d2e3022699a76c76decd6a9e08e7626d5e847dc968a511ffd",
+  "version": "0.872"
 }
