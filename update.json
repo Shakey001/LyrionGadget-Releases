@@ -1,6 +1,6 @@
 {
-  "notes": "Reduce Material content recoloring to preserve layout",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.862.tgz",
-  "sha256": "a92e4504b7828e445a667fd14d6abb8423115d2bc567697833a8b66fa0cb4844",
-  "version": "0.862"
+  "notes": "Simplify Material coloring to preserve layout",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.863.tgz",
+  "sha256": "c64b9ae9026d66ad513336d6cccf4014127dd4b092102693779dadbe6f2ad84c",
+  "version": "0.863"
 }
