@@ -1,6 +1,6 @@
 {
-  "notes": "Restore safe Material middle background coloring",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.865.tgz",
-  "sha256": "89b2d92dcbf158607ed49e8fc4d460bf56c7ea66fb58021a396fa68b7326af7c",
-  "version": "0.865"
+  "notes": "Match Material now-playing background to content color",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.866.tgz",
+  "sha256": "c4da1ff6e691ebb0e28a3bb8a436fc58b8b86d13625952b827f44b61ac9c42b5",
+  "version": "0.866"
 }
