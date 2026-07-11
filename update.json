@@ -1,6 +1,6 @@
 {
-  "notes": "Add broker-only Material interface settings access",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.868.tgz",
-  "sha256": "e56b75db77f6bcc9918e50b96c2c4945e5fab27f7aa0ef25f5509cdf7f5a2b9a",
-  "version": "0.868"
+  "notes": "Lock player Material settings behind broker admin links",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.869.tgz",
+  "sha256": "91f6290985408df392292006631842712d98c544586ee72207b7bda214286c48",
+  "version": "0.869"
 }
