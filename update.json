@@ -1,6 +1,6 @@
 {
-  "notes": "Simplify Material coloring to preserve layout",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.863.tgz",
-  "sha256": "c64b9ae9026d66ad513336d6cccf4014127dd4b092102693779dadbe6f2ad84c",
-  "version": "0.863"
+  "notes": "Color Material middle area using theme variables",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.864.tgz",
+  "sha256": "44ca21c2e00395089aab7baafcec769aadd003f52708243d0d2d3cd6a311c0a2",
+  "version": "0.864"
 }
