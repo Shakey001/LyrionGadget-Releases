@@ -1,6 +1,6 @@
 {
-  "notes": "Add broker-proxied Material panel experiment at /panel/material.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.846.tgz",
-  "sha256": "0faadb639ccb947d4386b73545fab025a90ad065e46c7500660417c4ad13a7d4",
-  "version": "0.846"
+  "notes": "Fix Material panel proxy path handling for assets, artwork, and plugin resources.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.847.tgz",
+  "sha256": "303ee727ac92dbd81e4a5c326be6ae97d4b4217aa8f461cdf916550a39058849",
+  "version": "0.847"
 }
