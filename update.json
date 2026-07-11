@@ -1,6 +1,6 @@
 {
-  "notes": "Match Material now-playing background to content color",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.866.tgz",
-  "sha256": "c4da1ff6e691ebb0e28a3bb8a436fc58b8b86d13625952b827f44b61ac9c42b5",
-  "version": "0.866"
+  "notes": "Add broker-only Material interface settings access",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.868.tgz",
+  "sha256": "e56b75db77f6bcc9918e50b96c2c4945e5fab27f7aa0ef25f5509cdf7f5a2b9a",
+  "version": "0.868"
 }
