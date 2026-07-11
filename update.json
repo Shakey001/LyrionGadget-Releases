@@ -1,6 +1,6 @@
 {
-  "notes": "Make web panel navigation icon-based and center stable thumbnail tiles closer to Material behavior.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.840.tgz",
-  "sha256": "1e1bc1153ce49a0e59492d5c41aa3a089b81645ee19ce8aa710a8a1f7fafe13d",
-  "version": "0.840"
+  "notes": "Hide top chrome, make search icon-triggered, move sync to top-left sheet, keep queue above footer, and add conditional rating icons.",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.841.tgz",
+  "sha256": "5db882dc6409d233446cab2b9d6f0b53c377105f2659e7035e73a62e14f0fd18",
+  "version": "0.841"
 }
