@@ -1,6 +1,6 @@
 {
-  "notes": "Add Material content color and improve sync popup",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.861.tgz",
-  "sha256": "9cc93b64c698412d63d20fb609533600c2c26c127cb7dacbd6d1ea22d20625b8",
-  "version": "0.861"
+  "notes": "Reduce Material content recoloring to preserve layout",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.862.tgz",
+  "sha256": "a92e4504b7828e445a667fd14d6abb8423115d2bc567697833a8b66fa0cb4844",
+  "version": "0.862"
 }
