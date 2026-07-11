@@ -1,6 +1,6 @@
 {
-  "notes": "Strengthen Material Skin colors and add floating sync shortcut",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.860.tgz",
-  "sha256": "1eb0835b053974ff055192af02f2e48e4650a650cb32341e224dc361f076203d",
-  "version": "0.860"
+  "notes": "Add Material content color and improve sync popup",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.861.tgz",
+  "sha256": "9cc93b64c698412d63d20fb609533600c2c26c127cb7dacbd6d1ea22d20625b8",
+  "version": "0.861"
 }
