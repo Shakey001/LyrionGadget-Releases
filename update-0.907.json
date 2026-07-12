@@ -1,0 +1,8 @@
+{
+  "version": "0.907",
+  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.907.tgz",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.907.tgz",
+  "sha256": "dfa17086295dc6f10a7a591ab7e03125d72cb38bc1292b07947f8eb9d83e29b2",
+  "notes": "Route classic home/source icons through rounded broker art and accept legacy update URL manifests",
+  "published_at": "2026-07-12T15:24:46Z"
+}
