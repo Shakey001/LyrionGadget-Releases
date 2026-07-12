@@ -1,6 +1,6 @@
 {
-  "notes": "Reduce Material web-object DOM scanning after startup to improve long-running RTI panel responsiveness",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.891.tgz",
-  "sha256": "acc1f552f6d0b77fe1031f9314d68de40d75c3ba1190a25d15433bcdb1e9e4fc",
-  "version": "0.891"
+  "notes": "Remove Material DOM observer and clear injected timers when RTI web objects hide or unload",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.892.tgz",
+  "sha256": "3075b4a911710d38fa79c0551c1d5d03e583e5cd49db840ad18dc105d0f17e70",
+  "version": "0.892"
 }
