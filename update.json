@@ -1,6 +1,7 @@
 {
-  "version": "0.905",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.905.tgz",
-  "sha256": "8812a52c48a65d959b2a567d049b215d6bc9b3dcf0bf561b7d64848644f82f00",
-  "notes": "Fix locked Material sync swipe behavior"
+  "version": "0.906",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.906.tgz",
+  "sha256": "db5efac0002dfacf2a6d7faee476ac041932236481d9fe6f4737d19948271c24",
+  "notes": "Route classic home/source icons through rounded broker art",
+  "published_at": "2026-07-12T15:16:47Z"
 }
