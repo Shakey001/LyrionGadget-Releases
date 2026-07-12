@@ -1,6 +1,6 @@
 {
-  "notes": "Add Material panel User/Installer mode switch in broker web settings",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.896.tgz",
-  "sha256": "98781d2c5fd3b1598970bb40215d86d1af4a03d28f54b0c10755f5a04fe8cb36",
-  "version": "0.896"
+  "notes": "Make broker Pandora tracks expose the native Material Pandora emblem",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.897.tgz",
+  "sha256": "1a266f26ac18a42eb853fa5bdb162110dc86c752463d68b4912f7e975bd0b3f5",
+  "version": "0.897"
 }
