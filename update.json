@@ -1,6 +1,6 @@
 {
-  "notes": "Use Pyrrha-style transparent Pandora Material icon",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.903.tgz",
-  "sha256": "0fe5a90cfde4c542f37e946d2b78a48dfa3995583f61ac9a98e18dac3da37f5d",
-  "version": "0.903"
+  "version": "0.904",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.904.tgz",
+  "sha256": "2a641fff10de27ceaf9b57c9a9a2e1325f0ddea1da63ddf69e9fca0ca891ae71",
+  "notes": "Fix locked Material swipe, rounded list art, and stale Pandora icon repair"
 }

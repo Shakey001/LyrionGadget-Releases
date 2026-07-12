@@ -1,0 +1,6 @@
+{
+  "version": "0.904",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.904.tgz",
+  "sha256": "2a641fff10de27ceaf9b57c9a9a2e1325f0ddea1da63ddf69e9fca0ca891ae71",
+  "notes": "Fix locked Material swipe, rounded list art, and stale Pandora icon repair"
+}
