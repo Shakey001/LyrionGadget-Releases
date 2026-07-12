@@ -1,8 +1,8 @@
 {
-  "version": "0.916",
-  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.916.tgz",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.916.tgz",
-  "sha256": "2dcc64b270c45298ebd8fae646ae34c670334061c27d1e24b7d7766223eea8cb",
-  "notes": "Polish broker web panel browse and now-playing controls",
-  "published_at": "2026-07-12T22:18:04Z"
+  "version": "0.917",
+  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.917.tgz",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.917.tgz",
+  "sha256": "7c983f968a5bdad678e90353397d61fc0e3bbab52df0c4c5b57b6a96a88ea34a",
+  "notes": "Dial back broker web panel thumbnail actions and controls",
+  "published_at": "2026-07-12T22:30:19Z"
 }
