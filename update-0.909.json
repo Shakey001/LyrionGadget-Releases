@@ -1,0 +1,8 @@
+{
+  "version": "0.909",
+  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.909.tgz",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.909.tgz",
+  "sha256": "2dfa2e0a60cde77ac463eddfbdfe8b673d25bc8c9f8be4d5345b518b81f3ff53",
+  "notes": "Fix Pandora default LMS icon at plugin source and remove icon override workaround",
+  "published_at": "2026-07-12T15:46:33Z"
+}
