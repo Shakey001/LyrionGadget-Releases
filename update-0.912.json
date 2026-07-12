@@ -1,0 +1,8 @@
+{
+  "version": "0.912",
+  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.912.tgz",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.912.tgz",
+  "sha256": "b64c8f1fdcb2faf9bee307f94c9f0c6ec9b8b8125125788caa4ad5b042f79404",
+  "notes": "Redesign broker-served web panel pages while leaving Material skin unchanged",
+  "published_at": "2026-07-12T16:19:11Z"
+}
