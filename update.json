@@ -1,6 +1,6 @@
 {
-  "notes": "Use visible monochrome Pandora Material icon",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.902.tgz",
-  "sha256": "22441a279592aaab35630c90a865ab8a4fa98e25ca75338c52dd63dd196f0095",
-  "version": "0.902"
+  "notes": "Use Pyrrha-style transparent Pandora Material icon",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.903.tgz",
+  "sha256": "0fe5a90cfde4c542f37e946d2b78a48dfa3995583f61ac9a98e18dac3da37f5d",
+  "version": "0.903"
 }
