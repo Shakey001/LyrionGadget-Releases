@@ -1,8 +1,8 @@
 {
-  "version": "0.915",
-  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.915.tgz",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.915.tgz",
-  "sha256": "120447b350576dc0a07654484c615538ef2a8819862ab492b6e5069ab90c90e6",
-  "notes": "Fix Web Panel setup tab after split broker/Material colors",
-  "published_at": "2026-07-12T21:45:19Z"
+  "version": "0.916",
+  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.916.tgz",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.916.tgz",
+  "sha256": "2dcc64b270c45298ebd8fae646ae34c670334061c27d1e24b7d7766223eea8cb",
+  "notes": "Polish broker web panel browse and now-playing controls",
+  "published_at": "2026-07-12T22:18:04Z"
 }
