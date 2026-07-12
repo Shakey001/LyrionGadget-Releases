@@ -1,6 +1,6 @@
 {
-  "notes": "Clean up broker web-panel sockets and evict stale panel connections during player switching",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.893.tgz",
-  "sha256": "df5181f6fbdb28c070ac3c50b3ee20773879771947ab8fd1b0b6684f9943dc8f",
-  "version": "0.893"
+  "notes": "Add broker-native hash player switching so RTI web objects can change players without full page reloads",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.894.tgz",
+  "sha256": "8d546a53c66c6d5a001089512bafbe53e95ad83b90941f8481777a0023e17762",
+  "version": "0.894"
 }

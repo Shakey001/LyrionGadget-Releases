@@ -1,0 +1,6 @@
+{
+  "notes": "Add broker-native hash player switching so RTI web objects can change players without full page reloads",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.894.tgz",
+  "sha256": "8d546a53c66c6d5a001089512bafbe53e95ad83b90941f8481777a0023e17762",
+  "version": "0.894"
+}
