@@ -1,7 +1,7 @@
 {
-  "version": "0.947",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.947.tgz",
-  "sha256": "18df4dde8e18959f518ef74f74bb8bdbdbb0d1a63dce010401ab3c7479688e48",
-  "size": 5400208,
-  "notes": "Fix RTI sync list toggle when the current player follows another synced player."
+  "version": "0.948",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.948.tgz",
+  "sha256": "989378c678c1cad0aa662bfb688aeffa4af2cb7a658e6df5b5d6b84e3899c8bc",
+  "size": 5399574,
+  "notes": "Make RTI sync list one-directional: row players sync to the page player only."
 }
