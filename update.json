@@ -1,7 +1,7 @@
 {
-  "version": "0.956",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.956.tgz",
-  "sha256": "88c239f90a92978cff052444f1ec75d0906762b3060612743ccb56e250a49d09",
-  "size": 5402709,
-  "notes": "Hide Spotty Transfer Playback tile in Material user mode."
+  "version": "0.952",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.952.tgz",
+  "sha256": "b573b2a7cbbfcbe17124dfb31b178993ad7796972b5d798a9d5a412da0b85f6f",
+  "size": 5399931,
+  "notes": "Use page-player sync command direction for RTI sync-list row selection."
 }
