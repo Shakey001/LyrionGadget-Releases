@@ -1,7 +1,7 @@
 {
-  "version": "0.952",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.952.tgz",
-  "sha256": "b573b2a7cbbfcbe17124dfb31b178993ad7796972b5d798a9d5a412da0b85f6f",
-  "size": 5399931,
-  "notes": "Use page-player sync command direction for RTI sync-list row selection."
+  "version": "0.960",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.960.tgz",
+  "sha256": "8e1f3b7e4ea4b09359755e0dfd2d18bd36397f3dce70f4dc5f30d42b071a30c3",
+  "size": 5067340,
+  "notes": "Refresh plugin state after LMS restart, keep curated plugins in Home Menu, and retry LMS RPC after reconnect."
 }
