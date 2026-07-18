@@ -1,7 +1,0 @@
-{
-  "version": "0.954",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.954.tgz",
-  "sha256": "5ed20a74224fa81f82a3f0c3e1ba85014fbed9959f55d50024fd1ca91a6c39c5",
-  "size": 5067562,
-  "notes": "Rebuild broker package without unsafe archive root entry; keeps Material Spotty Transfer Playback hidden in user mode."
-}
