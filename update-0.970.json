@@ -1,0 +1,7 @@
+{
+  "version": "0.970",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.970.tgz",
+  "sha256": "412c4988933d7737047fc7d0817ec2714ef10c62a28c89a0371cef1ffbd196bb",
+  "size": 5069836,
+  "notes": "Add first-run broker auto-update with setup-page progress status."
+}
