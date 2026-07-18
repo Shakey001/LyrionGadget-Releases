@@ -1,7 +1,7 @@
 {
-  "version": "0.960",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.960.tgz",
-  "sha256": "8e1f3b7e4ea4b09359755e0dfd2d18bd36397f3dce70f4dc5f30d42b071a30c3",
-  "size": 5067340,
-  "notes": "Refresh plugin state after LMS restart, keep curated plugins in Home Menu, and retry LMS RPC after reconnect."
+  "version": "0.961",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.961.tgz",
+  "sha256": "6613f44aca7f65c8d6d75b7d3e67aced5904794858fc95ac67c471add53ea032",
+  "size": 5067891,
+  "notes": "Clarify setup order, avoid tree loads without a connected player, and show active curated plugins before MyApps is available."
 }
