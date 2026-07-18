@@ -1,7 +1,7 @@
 {
-  "version": "0.965",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.965.tgz",
-  "sha256": "f73d272adda8b8a2d02e29858f50748b3a76ba1a485bd05a9ce65ff9871b4d9f",
-  "size": 5068212,
-  "notes": "Filter LMS MyApps empty-state text rows from the Setup Home Menu builder."
+  "version": "0.966",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.966.tgz",
+  "sha256": "c81816d0398f33203e47a76019cd3ee291ed0cd7381f2bdb8f9f896b100b9143",
+  "size": 5068528,
+  "notes": "Add cold-start Home Menu icons for curated iHeartRadio and AirPlay/ShairTunes rows."
 }
