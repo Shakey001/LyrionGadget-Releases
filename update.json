@@ -1,7 +1,7 @@
 {
-  "version": "0.967",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.967.tgz",
-  "sha256": "c46c86d71c38b22c23cd211f25ee085f971c96c570231ab45db715136bd2a8fe",
-  "size": 5068931,
-  "notes": "Show first-run update notice on setup pages before provisioning."
+  "version": "0.968",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.968.tgz",
+  "sha256": "7b3928fa3516825d0a1a511f46814cc22d3e3de8e750f884c194b31b3bc01da5",
+  "size": 5069331,
+  "notes": "Keep ShairTunes, Music Folder, Select Virtual Library, and iHeartRadio visible in setup but unchecked by default."
 }
