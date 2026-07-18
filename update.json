@@ -1,7 +1,7 @@
 {
-  "version": "0.970",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.970.tgz",
-  "sha256": "412c4988933d7737047fc7d0817ec2714ef10c62a28c89a0371cef1ffbd196bb",
-  "size": 5069836,
-  "notes": "Add first-run broker auto-update with setup-page progress status."
+  "version": "0.971",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.971.tgz",
+  "sha256": "4b058b6fdb298ff51907eb7710dd7f9dc875d39d2933719cf26525aa497a1402",
+  "size": 5069982,
+  "notes": "Preserve unchecked My Music and Radio menu rows across broker reloads."
 }
