@@ -1,7 +1,7 @@
 {
-  "version": "0.961",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.961.tgz",
-  "sha256": "6613f44aca7f65c8d6d75b7d3e67aced5904794858fc95ac67c471add53ea032",
-  "size": 5067891,
-  "notes": "Clarify setup order, avoid tree loads without a connected player, and show active curated plugins before MyApps is available."
+  "version": "0.962",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.962.tgz",
+  "sha256": "9e93fad9aba1b347f969b7a1f65eca838ff3fe06d329ed37ef3e40c597577c4f",
+  "size": 5068058,
+  "notes": "Move Local Players first in the setup workflow and show a first-step warning when no player is connected."
 }
