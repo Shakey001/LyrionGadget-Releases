@@ -1,0 +1,7 @@
+{
+  "version": "1.004",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.004.tgz",
+  "sha256": "a1c82339a37fe6964c64af1c61ba645dd9c6788ef0ed002b0741c39e42176547",
+  "size": 5047062,
+  "notes": "Add LMS settings save-and-restart helper and keep ShairTunes low/unselected in home menu."
+}
