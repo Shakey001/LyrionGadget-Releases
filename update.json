@@ -1,7 +1,7 @@
 {
-  "version": "0.996",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.996.tgz",
-  "sha256": "5066a6af217b5f68b5bdfe81cbf3cae555ed5022fb0d491f9215bc9cdfb9c1d9",
-  "size": 5044890,
-  "notes": "Keep Pandora default icons colorful and use a white Material Pandora icon in the Material layer."
+  "version": "0.997",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.997.tgz",
+  "sha256": "2da671332fc1bf87a9533515d13a7bd5ebb001b69f4b69597ae4db1c37c1f678",
+  "size": 5045086,
+  "notes": "Version Material custom layer files so RTI web objects refresh Pandora icon handling."
 }
