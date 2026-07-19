@@ -1,7 +1,7 @@
 {
-  "version": "1.005",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.005.tgz",
-  "sha256": "bad99a9e8d641407ef8902ef83490f8c4cba00775d62219b29eb988c14f15509",
-  "size": 5047148,
-  "notes": "Fix LMS settings restart helper to call broker and move Close next to Save."
+  "version": "1.006",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.006.tgz",
+  "sha256": "2b9240faa46f1066028f3bd7797da2d3111ccca8669d729db5da1f9173246dab",
+  "size": 5047666,
+  "notes": "Set iHeartRadio to show in My Apps when enabled from broker."
 }
