@@ -1,7 +1,7 @@
 {
-  "version": "0.999",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.999.tgz",
-  "sha256": "9c2bde1a422f55d9043fcd3067c9d6a653aa048668c879d418c86024d5af289c",
-  "size": 5045598,
-  "notes": "Map Pandora plugins through Material native icon map for Material-style icons."
+  "version": "1.000",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.000.tgz",
+  "sha256": "8a041b4f6be8e5a298412db1024cd143f247e42de7b1b38eeece2722868e4cea",
+  "size": 5045649,
+  "notes": "Restore standard Material layer URL and map Pandora plugin icons through Material icon map."
 }
