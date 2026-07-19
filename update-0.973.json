@@ -1,0 +1,7 @@
+{
+  "version": "0.973",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.973.tgz",
+  "sha256": "48c84772e3b1a7526ab13c0ae2db3e0628fa37a9260a7b630c4ae20e70551394",
+  "size": 5070371,
+  "notes": "Filter blank Podcast browse rows and keep panel fallback art/icon polish."
+}
