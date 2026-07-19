@@ -1,7 +1,7 @@
 {
-  "version": "0.985",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.985.tgz",
-  "sha256": "85d8938219a37d3c2e22e2a5de8d905897a4830d30c9420e3714edb09d92748c",
-  "size": 5070707,
-  "notes": "Restore Material Pandora white-P plugin icons while keeping classic broker icons colorful."
+  "version": "0.986",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.986.tgz",
+  "sha256": "e5b52b06abafc54d65ffd0631db5d71b51aa5bd9e1fd397746c4d2420dcbe4fe",
+  "size": 5070821,
+  "notes": "Move Pandora Material icon split into the LMS plugin: classic uses colorful icon, Material uses white P."
 }
