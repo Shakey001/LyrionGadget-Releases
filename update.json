@@ -1,7 +1,7 @@
 {
-  "version": "0.977",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.977.tgz",
-  "sha256": "336ac473cfca45f4e0e3c31ceecfcd875d38716e78c179e293a241407d67a3f2",
+  "version": "0.978",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.978.tgz",
+  "sha256": "fbd8fd3f194d3715de704760523470aa1cf06f35a1f728816ffe3f3975962a3f",
   "size": 5070658,
-  "notes": "Add plugin sequencing note and normalize blank ALSA params."
+  "notes": "Lighten broker panel no-art placeholders."
 }
