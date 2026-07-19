@@ -1,7 +1,7 @@
 {
-  "version": "0.992",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.992.tgz",
-  "sha256": "f6156a2e93ac5559928e1197f59c250a48e71bff81db5745c5733eaa107f5a1c",
-  "size": 5070724,
-  "notes": "Restore 970-series Pandora icon behavior: colorful plugin metadata, no Material app-icon override."
+  "version": "0.993",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.993.tgz",
+  "sha256": "ec58526966d78fb11809296b4db33cc86a5ae3b46c3493f1152026a201671565",
+  "size": 5070778,
+  "notes": "Restore working Pandora icon split: Material app metadata white P, classic broker paths normalize colorful."
 }

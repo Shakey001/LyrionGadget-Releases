@@ -1,7 +1,0 @@
-{
-  "version": "0.983",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.983.tgz",
-  "sha256": "607e3deb6bb279bc8ebcf90c7b5fe07886c91e0647ed9c85312d9cd6e1187bb7",
-  "size": 5071125,
-  "notes": "Limit RTI art rounding to explicit rounded home-menu art URLs."
-}
