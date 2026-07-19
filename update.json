@@ -1,7 +1,7 @@
 {
-  "version": "1.021",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.021.tgz",
-  "sha256": "4b41e3fb4a3f2bd69511cdc2081dd7b1bbb543504cf71a02b711cbc25b70e677",
-  "size": 5048685,
-  "notes": "Refresh setup after LMS plugin placement restarts and mark Radio menu unsaved when discovered rows differ from saved config."
+  "version": "1.022",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.022.tgz",
+  "sha256": "6217c9f7e2927deb84b1f3bc8f3c5dde806c83921f34febe76fb19f6f96f3acd",
+  "size": 5048926,
+  "notes": "Refresh setup after normal LMS plugin settings saves so moved Home/Radio app placement is picked up without manual refresh."
 }
