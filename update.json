@@ -1,7 +1,7 @@
 {
-  "version": "1.023",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.023.tgz",
-  "sha256": "efc67d68116e2cf6a794cb6802ac2f01f2e24706c258a14c6fbfbf33532efdda",
-  "size": 5049222,
-  "notes": "Delay and reinforce setup refresh after LMS plugin settings saves, including direct Radio tree reload notification."
+  "version": "1.024",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.024.tgz",
+  "sha256": "d9f08b0212d81ca27775d9035b93a0379e0f66cfa7d83c94a3f2d958bdc661e5",
+  "size": 5049462,
+  "notes": "Normalize Home menu order numbers so plugin reinserts cannot create duplicate order values."
 }
