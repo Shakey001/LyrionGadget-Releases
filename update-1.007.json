@@ -1,0 +1,7 @@
+{
+  "version": "1.007",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.007.tgz",
+  "sha256": "c333ba5e2e894973c4a2790fd82910310de0495deb09f44e0bab204200e0af2b",
+  "size": 5048133,
+  "notes": "iHeartRadio enabled from broker is retried after LMS restart so it defaults to My Apps."
+}
