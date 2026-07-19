@@ -1,0 +1,7 @@
+{
+  "version": "0.977",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.977.tgz",
+  "sha256": "336ac473cfca45f4e0e3c31ceecfcd875d38716e78c179e293a241407d67a3f2",
+  "size": 5070658,
+  "notes": "Add plugin sequencing note and normalize blank ALSA params."
+}
