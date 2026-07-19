@@ -1,7 +1,7 @@
 {
-  "version": "0.971",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.971.tgz",
-  "sha256": "4b058b6fdb298ff51907eb7710dd7f9dc875d39d2933719cf26525aa497a1402",
-  "size": 5069982,
-  "notes": "Preserve unchecked My Music and Radio menu rows across broker reloads."
+  "version": "0.972",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.972.tgz",
+  "sha256": "bba755ad8c09dd798449951a0cb0e3398d92f41e3c3c4e2c7bc003cc2abf5a5e",
+  "size": 5070260,
+  "notes": "Polish fallback art, restore Pyrrha home icon source, and dedupe Podcast home app."
 }
