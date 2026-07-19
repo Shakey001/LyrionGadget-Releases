@@ -1,0 +1,7 @@
+{
+  "version": "1.014",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.014.tgz",
+  "sha256": "13938f8544ae2465d9846296b421eed3d4139139b4480733d52b5c8669279588",
+  "size": 5047755,
+  "notes": "Restore live Radio art behavior and match saved Radio rows by label as well as id."
+}

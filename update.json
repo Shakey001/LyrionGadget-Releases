@@ -1,7 +1,7 @@
 {
-  "version": "1.013",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.013.tgz",
-  "sha256": "3d31a07ec5d7a4f24f727618f86980175d60a2df97986e73188e8f2efd3ebc1e",
-  "size": 5047739,
-  "notes": "Show icons in the Radio setup tree while restoring live Radio browse behavior."
+  "version": "1.014",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.014.tgz",
+  "sha256": "13938f8544ae2465d9846296b421eed3d4139139b4480733d52b5c8669279588",
+  "size": 5047755,
+  "notes": "Restore live Radio art behavior and match saved Radio rows by label as well as id."
 }
