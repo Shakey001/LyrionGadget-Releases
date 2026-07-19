@@ -1,7 +1,7 @@
 {
-  "version": "0.993",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.993.tgz",
-  "sha256": "ec58526966d78fb11809296b4db33cc86a5ae3b46c3493f1152026a201671565",
-  "size": 5070778,
-  "notes": "Restore working Pandora icon split: Material app metadata white P, classic broker paths normalize colorful."
+  "version": "0.994",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.994.tgz",
+  "sha256": "28384df4b69017f945da8e546679f15cadd4c888263685c798009b7738699a67",
+  "size": 5070939,
+  "notes": "Restore classic Pandora icons for default/RTI while keeping Material white P icons."
 }
