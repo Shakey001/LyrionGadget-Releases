@@ -1,7 +1,7 @@
 {
-  "version": "1.014",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.014.tgz",
-  "sha256": "13938f8544ae2465d9846296b421eed3d4139139b4480733d52b5c8669279588",
-  "size": 5047755,
-  "notes": "Restore live Radio art behavior and match saved Radio rows by label as well as id."
+  "version": "1.015",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.015.tgz",
+  "sha256": "a5879c03d0dbc069b4d48069c7ce477b42d6ed46ddff1c07c4a585083c9837d4",
+  "size": 5047786,
+  "notes": "Use discovered Radio rows when applying saved menu settings so iHeartRadio remains visible in RTI Radio browse."
 }
