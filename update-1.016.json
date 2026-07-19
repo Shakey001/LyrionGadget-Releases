@@ -1,0 +1,7 @@
+{
+  "version": "1.016",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.016.tgz",
+  "sha256": "e73a4564d32d8cf271d6835048841f2041ea33c0eecffa6de9891aeda54b5727",
+  "size": 5047825,
+  "notes": "Apply Radio menu aliases and ordering to live RTI browse, including discovered plugin rows like iHeartRadio."
+}
