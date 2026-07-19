@@ -1,7 +1,7 @@
 {
-  "version": "0.988",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.988.tgz",
-  "sha256": "9d2e34980089423428b6202707c140df9baab46c49f9f701a25c091acc409c63",
-  "size": 5070723,
-  "notes": "Remove stale Material Pandora icon override so Material uses the plugin-native white P."
+  "version": "0.989",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.989.tgz",
+  "sha256": "493fd717cdca9971be796236671bec82d850a11352ff5fa740725a9bac174666",
+  "size": 5070781,
+  "notes": "Restore plugin-native Pandora Material white P while keeping classic install icon colorful."
 }
