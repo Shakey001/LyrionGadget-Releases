@@ -1,7 +1,7 @@
 {
-  "version": "1.019",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.019.tgz",
-  "sha256": "02f8ba6fa30dad39e72bd6539851e94cb1b24ca2263bd998a97fb6a48bcd0f1f",
-  "size": 5047892,
-  "notes": "Apply RTI Radio icon rounding after row formatting, matching the Home menu art pattern."
+  "version": "1.020",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.020.tgz",
+  "sha256": "cdb1bb615e02edcc02c46d8c5b483e609ea1f3a2a227eb0c0941be53b8f73f6e",
+  "size": 5047895,
+  "notes": "Preserve iHeart/Radio source on thin remote stream updates instead of downgrading Now Playing to My Music."
 }

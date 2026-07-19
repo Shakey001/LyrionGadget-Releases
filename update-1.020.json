@@ -1,0 +1,7 @@
+{
+  "version": "1.020",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.020.tgz",
+  "sha256": "cdb1bb615e02edcc02c46d8c5b483e609ea1f3a2a227eb0c0941be53b8f73f6e",
+  "size": 5047895,
+  "notes": "Preserve iHeart/Radio source on thin remote stream updates instead of downgrading Now Playing to My Music."
+}
