@@ -1,7 +1,7 @@
 {
-  "version": "1.001",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.001.tgz",
-  "sha256": "27206db7d1629b5ea7885d5acf9de290f30cc9b241ad373a3c470d70d4379c6c",
-  "size": 5045660,
-  "notes": "Fix Material custom layer syntax so RTI web object loads sync/menu and Pandora icon-map patch."
+  "version": "1.002",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.002.tgz",
+  "sha256": "2ea0ff8ff269d6eee7e464c461574c2f87fdd434edaab41b2138d2791c2e2978",
+  "size": 5046375,
+  "notes": "Pin Pandora Material icons to Lyrion Pandora SVG across browser and RTI web object."
 }
