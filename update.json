@@ -1,7 +1,7 @@
 {
-  "version": "1.007",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.007.tgz",
-  "sha256": "c333ba5e2e894973c4a2790fd82910310de0495deb09f44e0bab204200e0af2b",
-  "size": 5048133,
-  "notes": "iHeartRadio enabled from broker is retried after LMS restart so it defaults to My Apps."
+  "version": "1.008",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.008.tgz",
+  "sha256": "5b5d751c050315dd5c82d26d6284fdb0268fe4c9baa53016536d4bc18d2968b9",
+  "size": 5047212,
+  "notes": "Keep iHeartRadio in LMS default Radio lane unless installer moves it to My Apps."
 }
