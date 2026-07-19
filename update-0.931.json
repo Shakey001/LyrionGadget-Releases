@@ -1,7 +1,0 @@
-{
-  "version": "0.931",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.931.tgz",
-  "sha256": "6c639a41df592887507efe20d1850823cce1e42310a64dfe03738fb8d71e4732",
-  "size": 5067470,
-  "notes": "Use LMS-discovered artwork for Setup home menu core icons, with broker-served fallbacks for My Music, Radio, and Favorites."
-}

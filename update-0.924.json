@@ -1,7 +1,0 @@
-{
-  "version": "0.924",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.924.tgz",
-  "sha256": "33f28445b768f4e3581f01ed6b2b8bc73348053e85081309453e079718a8fb9c",
-  "size": 5064408,
-  "notes": "Improve broker web album pages with Material-style action header and compact track list."
-}

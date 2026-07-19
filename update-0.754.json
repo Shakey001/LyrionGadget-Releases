@@ -1,6 +1,0 @@
-{
-  "notes": "Set LMS library name from hostname and refresh after reboot",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.754.tgz",
-  "sha256": "7a2ff6095b4828f882a1cd2b7e90b20f131f85ef5fcf63260612c09a53e0b449",
-  "version": "0.754"
-}

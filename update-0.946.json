@@ -1,7 +1,0 @@
-{
-  "version": "0.946",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.946.tgz",
-  "sha256": "41fba9c8a3fb16f2e7b3ebdbcd0ed3b25b0e0fc9d7c47df418acb7db9f10d4f5",
-  "size": 5068346,
-  "notes": "Clear stale RTI sync checks when LMS/Material omits sync fields after unsync."
-}

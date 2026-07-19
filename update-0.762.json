@@ -1,6 +1,0 @@
-{
-  "notes": "Recover System page buttons after restart and reboot reconnects.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.762.tgz",
-  "sha256": "b289c473bbb2a16a1407c98153712e6d3b07dffd0806c164561feaa07257bfce",
-  "version": "0.762"
-}

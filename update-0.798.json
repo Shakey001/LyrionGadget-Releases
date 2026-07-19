@@ -1,6 +1,0 @@
-{
-  "notes": "Clean duplicate DAC8x ALSA blocks and restore working dmix settings.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.798.tgz",
-  "sha256": "87928b44e350992d50ba5a46182da7c978a0c483da2dc0faed51349619cfcd42",
-  "version": "0.798"
-}

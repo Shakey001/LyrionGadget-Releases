@@ -1,6 +1,0 @@
-{
-  "notes": "Corrects false pending-change status by preserving provisioning mode and supporting older saved configurations.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.724.tgz",
-  "sha256": "bca953bf902e9a56d4e2cc42a8fa8996434c5797468dbdb7103c7918c3f2a593",
-  "version": "0.724"
-}

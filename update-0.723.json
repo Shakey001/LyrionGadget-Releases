@@ -1,6 +1,0 @@
-{
-  "notes": "Reports matching player configuration and enables Apply only after provisioning changes.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.723.tgz",
-  "sha256": "d1d94298888cf70b1387a0aa2fa6c44a01343939f363461fce72f1e5b5d4079e",
-  "version": "0.723"
-}

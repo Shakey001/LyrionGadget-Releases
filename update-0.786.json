@@ -1,6 +1,0 @@
-{
-  "notes": "Warn when the LMS Target changes so local players are re-applied and RTI discovery is refreshed.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.786.tgz",
-  "sha256": "9636d303ce9d8ae6741305da1edade18c0c604c1f10f529253986f1a9102cf88",
-  "version": "0.786"
-}

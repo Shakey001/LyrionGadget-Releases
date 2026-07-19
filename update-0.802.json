@@ -1,6 +1,0 @@
-{
-  "notes": "Keep player provisioning hardware-driven across Pi models.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.802.tgz",
-  "sha256": "8c5d6bdc8cd6dbf067a13e82b5d3730bb76587b128e6f85d8799bbea3b13b4bf",
-  "version": "0.802"
-}

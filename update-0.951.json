@@ -1,7 +1,0 @@
-{
-  "version": "0.951",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.951.tgz",
-  "sha256": "9b6ed87c5a47204c2e2ba0057994184500a1e9a6a2c503c843c822ab3954ef9b",
-  "size": 5399919,
-  "notes": "Restore LMS sync command direction: row players follow the page player."
-}

@@ -1,7 +1,0 @@
-{
-  "version": "0.964",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.964.tgz",
-  "sha256": "7db2025d7068766ba3769e8c306f6961e54b3758f72cd4609d0ec332bc619a4b",
-  "size": 5068191,
-  "notes": "Hide LMS placeholder 'No App installed' rows from the Setup Home Menu builder."
-}

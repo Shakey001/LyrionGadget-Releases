@@ -1,7 +1,0 @@
-{
-  "version": "0.934",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.934.tgz",
-  "sha256": "1da4000d680b3be4a91276b6a2207e46bf5bf4d0f47526f6d2b92f1e98b80792",
-  "size": 5067709,
-  "notes": "Restore original RTI My Music fallback icons and add MS-3 Clone upsample profiles for balanced USB/HiFiBerry output levels."
-}

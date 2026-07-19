@@ -1,6 +1,0 @@
-{
-  "notes": "Restores the complete 0.705 audio/player setup broker with the original LMS transport.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.713.tgz",
-  "sha256": "6915c230571d4bde644dde7d0861360ae21149dfca7752c6e52f18bd55a6fd92",
-  "version": "0.713"
-}

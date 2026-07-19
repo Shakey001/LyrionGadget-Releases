@@ -1,7 +1,0 @@
-{
-  "version": "0.941",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.941.tgz",
-  "sha256": "8cf4587eecf8a27ab909f1cca16b23d2e662436e194c833b19f9c662a1b35add",
-  "size": 5069457,
-  "notes": "Reduce sync-list repaint traffic; only broadcast changed sync lists and suppress duplicate web-panel redraws."
-}

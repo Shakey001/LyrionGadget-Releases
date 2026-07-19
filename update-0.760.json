@@ -1,6 +1,0 @@
-{
-  "notes": "Treat pCP LMS start timeout as success when LMS is responding and re-enable system action buttons.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.760.tgz",
-  "sha256": "a47bce0db62386d43315a7fa295641454b0d05e097211895c161d417e972129a",
-  "version": "0.760"
-}

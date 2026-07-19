@@ -1,6 +1,0 @@
-{
-  "notes": "Reduce Material web-object DOM scanning after startup to improve long-running RTI panel responsiveness",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.891.tgz",
-  "sha256": "acc1f552f6d0b77fe1031f9314d68de40d75c3ba1190a25d15433bcdb1e9e4fc",
-  "version": "0.891"
-}

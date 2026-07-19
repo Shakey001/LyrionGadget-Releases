@@ -1,7 +1,0 @@
-{
-  "version": "0.972",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.972.tgz",
-  "sha256": "bba755ad8c09dd798449951a0cb0e3398d92f41e3c3c4e2c7bc003cc2abf5a5e",
-  "size": 5070260,
-  "notes": "Polish fallback art, restore Pyrrha home icon source, and dedupe Podcast home app."
-}

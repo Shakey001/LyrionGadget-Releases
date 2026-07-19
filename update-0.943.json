@@ -1,7 +1,0 @@
-{
-  "version": "0.943",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.943.tgz",
-  "sha256": "9509ed21f2e45ba74e41f34a7801d13f742115496a889adf8bbeb7125f8e9ab9",
-  "size": 5069604,
-  "notes": "Fix sync-list direction and derive checked rows from full LMS sync groups."
-}

@@ -1,7 +1,0 @@
-{
-  "version": "0.933",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.933.tgz",
-  "sha256": "e760cfa4cc742a640178dc15510ee8db2c6a1446febec39f671faa356531f781",
-  "size": 5067517,
-  "notes": "Avoid slow LMS artwork lookups for Setup core home rows and show broker fallback icons immediately."
-}

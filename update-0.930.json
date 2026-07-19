@@ -1,7 +1,0 @@
-{
-  "version": "0.930",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.930.tgz",
-  "sha256": "bf66771e476ca5d43fede77a45723794802bfe7335850ec51e5a223d671d2533",
-  "size": 5067320,
-  "notes": "Clean up setup navigation: add reliable core home icons, simplify local player preview text, move broker webpage controls and URLs to Advanced level 2, and keep Web Panel focused on Material settings."
-}

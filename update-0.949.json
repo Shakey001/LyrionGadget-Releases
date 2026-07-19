@@ -1,7 +1,0 @@
-{
-  "version": "0.949",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.949.tgz",
-  "sha256": "71dee3b0a6aadd90a59616c5a618b5dc1fa7b79483a56d9027da420fa99b673b",
-  "size": 5399939,
-  "notes": "Show sync-list checks when a row player is paired with the page player in either direction."
-}

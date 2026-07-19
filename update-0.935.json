@@ -1,7 +1,0 @@
-{
-  "version": "0.935",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.935.tgz",
-  "sha256": "59cfb6aaac53e68e570dfe2f27ea9aadbc83227fc04923ebd741c90f16cbb7e4",
-  "size": 5067901,
-  "notes": "Write MS-3 Clone main-player upsample settings into pCP Various Options as -u, and clear the prior -R-generating field."
-}

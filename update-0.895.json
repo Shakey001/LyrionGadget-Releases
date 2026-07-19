@@ -1,6 +1,0 @@
-{
-  "notes": "Restore broker panel kiosk URLs to query-string player selection",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.895.tgz",
-  "sha256": "1d8677062e2109ef768f89e5e4adcc776418b1a9ed60e9250270548d47d5b0f1",
-  "version": "0.895"
-}

@@ -1,7 +1,0 @@
-{
-  "version": "0.936",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.936.tgz",
-  "sha256": "d6344f0eafeab094caa56e9268980ccdcf140119973d98c14f40e5fbed72231e",
-  "size": 5067957,
-  "notes": "Adjust MS-3 Clone HiFiBerry upsample profile to -u ::4 and label Material Web Panel as beta."
-}

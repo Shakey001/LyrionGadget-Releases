@@ -1,6 +1,0 @@
-{
-  "notes": "Detect default Lyrion hostnames and report unique local player status.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.799.tgz",
-  "sha256": "31572e9b69cc7e798e5088f7d471c3c5d2b736257ede8b4e403c9be001183d01",
-  "version": "0.799"
-}

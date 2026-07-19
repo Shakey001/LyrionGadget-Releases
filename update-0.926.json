@@ -1,7 +1,0 @@
-{
-  "version": "0.926",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.926.tgz",
-  "sha256": "66416dbd48465827a07528e250a4e6c565ca353a26a575ccc7736eb1017b4d39",
-  "size": 5064536,
-  "notes": "Make the Material user-mode swipe guard wait for a real horizontal swipe so left-side menu items, alphabet rails, and toolbar icons still receive taps."
-}

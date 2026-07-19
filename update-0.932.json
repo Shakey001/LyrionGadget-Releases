@@ -1,7 +1,0 @@
-{
-  "version": "0.932",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.932.tgz",
-  "sha256": "6d44ec7010eab7bba4206cee3042387a2e0803d9e744ad4af9be0f8d75977d67",
-  "size": 5067624,
-  "notes": "Make Setup home menu core icons load from relative broker assets when LMS artwork is missing or unreachable."
-}

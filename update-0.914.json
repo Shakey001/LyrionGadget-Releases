@@ -1,8 +1,0 @@
-{
-  "version": "0.914",
-  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.914.tgz",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.914.tgz",
-  "sha256": "0376f38fc83ddd831e784f195f6d3b1ea650060259a7f484175f83ac3e7891eb",
-  "notes": "Refine broker web panels for hybrid mode and split broker/Material colors",
-  "published_at": "2026-07-12T21:33:33Z"
-}

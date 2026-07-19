@@ -1,7 +1,0 @@
-{
-  "version": "0.952",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.952.tgz",
-  "sha256": "b573b2a7cbbfcbe17124dfb31b178993ad7796972b5d798a9d5a412da0b85f6f",
-  "size": 5399931,
-  "notes": "Use page-player sync command direction for RTI sync-list row selection."
-}

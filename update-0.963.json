@@ -1,7 +1,0 @@
-{
-  "version": "0.963",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.963.tgz",
-  "sha256": "38080910d8424cfca95564f0f81499aea2891423ebd45b1495f52e9420be1902",
-  "size": 5068153,
-  "notes": "Migrate old default Material/Web Panel colors to the new Lyrion blue defaults."
-}

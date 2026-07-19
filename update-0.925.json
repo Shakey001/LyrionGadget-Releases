@@ -1,7 +1,0 @@
-{
-  "version": "0.925",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.925.tgz",
-  "sha256": "159e6aea90f4341706ade6507127b94822e0891db7b929bd54bb787794dc215a",
-  "size": 5064517,
-  "notes": "Allow Material back and home toolbar buttons while user-mode swipe lock is enabled."
-}

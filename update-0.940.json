@@ -1,7 +1,0 @@
-{
-  "version": "0.940",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.940.tgz",
-  "sha256": "1045652f6f269c6bf5ce8fa8a6b1826b4e6b29f2321a1a76096bb0c02b66f34c",
-  "size": 5069220,
-  "notes": "Use LMS sync query for sync-list authority and clamp Material user menu sooner."
-}

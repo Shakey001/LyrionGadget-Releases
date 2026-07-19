@@ -1,8 +1,0 @@
-{
-  "version": "0.938",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.938.tgz",
-  "sha256": "cf6bd06b8b738156eb88060f61cf01afed17d7ecf8a0a9fc6ec079aff35a0267",
-  "size": 5068979,
-  "notes": "Fetch fresh LMS sync state for broker-owned RTI sync lists."
-}
-

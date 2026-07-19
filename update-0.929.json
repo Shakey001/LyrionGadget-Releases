@@ -1,7 +1,0 @@
-{
-  "version": "0.929",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.929.tgz",
-  "sha256": "4c09b3631450126003a5bef9f8cea42ef134dcef4910aefb5885f0916f79dff5",
-  "size": 5065423,
-  "notes": "Polish broker web album and playlist drilldowns with a richer hero, labeled play actions, track counts, and duration-aligned track rows."
-}

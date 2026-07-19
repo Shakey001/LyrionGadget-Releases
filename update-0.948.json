@@ -1,7 +1,0 @@
-{
-  "version": "0.948",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.948.tgz",
-  "sha256": "989378c678c1cad0aa662bfb688aeffa4af2cb7a658e6df5b5d6b84e3899c8bc",
-  "size": 5399574,
-  "notes": "Make RTI sync list one-directional: row players sync to the page player only."
-}

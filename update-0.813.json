@@ -1,6 +1,0 @@
-{
-  "notes": "Treat Broker Light LMS target lookup failures as post-apply warnings so local player provisioning does not falsely report failure.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.813.tgz",
-  "sha256": "0be95b3ac6dd4f10767478da4c6662b330493ae5a5bf60c96c8446bb484f6ee3",
-  "version": "0.813"
-}

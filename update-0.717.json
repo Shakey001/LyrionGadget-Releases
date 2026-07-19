@@ -1,6 +1,0 @@
-{
-  "notes": "Prevents a previous cover from being cached during rapid now-playing artwork changes.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.717.tgz",
-  "sha256": "bc379f2dd31286aaf4a2973e42c65ff92db27e92f16d40f79cf1b6d5af86da6d",
-  "version": "0.717"
-}

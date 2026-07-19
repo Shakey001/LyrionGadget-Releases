@@ -1,7 +1,0 @@
-{
-  "version": "0.961",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.961.tgz",
-  "sha256": "6613f44aca7f65c8d6d75b7d3e67aced5904794858fc95ac67c471add53ea032",
-  "size": 5067891,
-  "notes": "Clarify setup order, avoid tree loads without a connected player, and show active curated plugins before MyApps is available."
-}

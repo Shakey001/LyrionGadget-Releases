@@ -1,7 +1,0 @@
-{
-  "version": "0.947",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.947.tgz",
-  "sha256": "18df4dde8e18959f518ef74f74bb8bdbdbb0d1a63dce010401ab3c7479688e48",
-  "size": 5400208,
-  "notes": "Fix RTI sync list toggle when the current player follows another synced player."
-}

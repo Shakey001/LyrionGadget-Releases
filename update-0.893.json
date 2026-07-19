@@ -1,6 +1,0 @@
-{
-  "notes": "Clean up broker web-panel sockets and evict stale panel connections during player switching",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.893.tgz",
-  "sha256": "df5181f6fbdb28c070ac3c50b3ee20773879771947ab8fd1b0b6684f9943dc8f",
-  "version": "0.893"
-}

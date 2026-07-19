@@ -1,7 +1,0 @@
-{
-  "version": "0.945",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.945.tgz",
-  "sha256": "9d7fc2bb786a1fac7248d9499886772e8628088a1afc31dff2e56b1e04d516cb",
-  "size": 5068321,
-  "notes": "Stable rollback web layer plus RTI 1.79 sync-list API compatibility."
-}

@@ -1,6 +1,0 @@
-{
-  "notes": "Prevent main setup save from clearing Pandora credentials and refresh parent after Pandora account save.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.742.tgz",
-  "sha256": "ad703aace185c912507c1e0314d7344af102f20aec07d5823f2fbb8c57d73022",
-  "version": "0.742"
-}

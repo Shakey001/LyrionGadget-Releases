@@ -1,6 +1,0 @@
-{
-  "notes": "Keep Open-mode local player sessions stable when pCP only reports the primary player",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.890.tgz",
-  "sha256": "675b5175073847bd08807342e096a82dbd27e859f38beb740a9bc9c74d55d706",
-  "version": "0.890"
-}

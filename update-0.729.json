@@ -1,6 +1,0 @@
-{
-  "notes": "Loads active LMS plugin names and versions from the supported plugin-manager page.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.729.tgz",
-  "sha256": "f0477f4ac43f2b67592b3798c20de558b8a2c011c470762f0e36baac5cf60d78",
-  "version": "0.729"
-}

@@ -1,6 +1,0 @@
-{
-  "notes": "Harden curated LMS plugin detection for repository and active plugin rows.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.732.tgz",
-  "sha256": "199921ddf95749607a830fb05786cdaac7024878f3aa21f4ff0dd862ae982e2b",
-  "version": "0.732"
-}

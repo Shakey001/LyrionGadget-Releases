@@ -1,6 +1,0 @@
-{
-  "notes": "Adds system commissioning, validation, plugin status, service controls, configuration backup/restore, broker rollback, ALSA parameters, and automatic post-update refresh.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.727.tgz",
-  "sha256": "f7eb82793d85021fd901b39638e630cfad2892a018258cb549a7f5733ea7b31f",
-  "version": "0.727"
-}

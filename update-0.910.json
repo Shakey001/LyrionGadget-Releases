@@ -1,8 +1,0 @@
-{
-  "version": "0.910",
-  "package_url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.910.tgz",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.910.tgz",
-  "sha256": "7fd3370ef8bf76d3233c4316b0ad329562367605354a75698c7aec74f0941349",
-  "notes": "Restore classic Pandora icon asset while keeping Material icon separate",
-  "published_at": "2026-07-12T15:57:55Z"
-}

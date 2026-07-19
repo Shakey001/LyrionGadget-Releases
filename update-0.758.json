@@ -1,6 +1,0 @@
-{
-  "notes": "Use verified init-script stop/start for LMS restart on pCP.",
-  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-broker-picoreplayer-package-0.758.tgz",
-  "sha256": "edbd28c4f3dcbb0bd4a91637a15d9517ed0dd5405931badd607d1b0723a41651",
-  "version": "0.758"
-}

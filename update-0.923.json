@@ -1,7 +1,0 @@
-{
-  "version": "0.923",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.923.tgz",
-  "sha256": "88102a0cf11885d5a926f0db8a2da18269442ce4c4dbd8f6c5400b5d0ab01226",
-  "size": 5063476,
-  "notes": "Move hostname setup to Advanced and keep Lyrion#### identity defaults."
-}

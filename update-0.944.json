@@ -1,7 +1,0 @@
-{
-  "version": "0.944",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.944.tgz",
-  "sha256": "b229b0aea6f50cf64973d5c1d97d1c0f46e35c6e6686beea7cfc5c876f049255",
-  "size": 5067962,
-  "notes": "Rollback-forward to stable 0.936 broker/web layer; removes recent sync and heavy web-panel churn."
-}
