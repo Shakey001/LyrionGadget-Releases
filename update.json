@@ -1,7 +1,7 @@
 {
-  "version": "1.016",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.016.tgz",
-  "sha256": "e73a4564d32d8cf271d6835048841f2041ea33c0eecffa6de9891aeda54b5727",
-  "size": 5047825,
-  "notes": "Apply Radio menu aliases and ordering to live RTI browse, including discovered plugin rows like iHeartRadio."
+  "version": "1.017",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.017.tgz",
+  "sha256": "7b55f4ec7d4a3ceb2c20c405fee3023e914939c4f25d2e5a376bb3af0c97cbc8",
+  "size": 5047868,
+  "notes": "Round live RTI Radio row icons using the broker image path, matching Home menu icon polish."
 }
