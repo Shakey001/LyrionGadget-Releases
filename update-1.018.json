@@ -1,0 +1,7 @@
+{
+  "version": "1.018",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.018.tgz",
+  "sha256": "3c2a98e42b7b6b2c170f6b177d2348823d5da8b6d6d9821de417668d22f1c962",
+  "size": 5047890,
+  "notes": "Ensure RTI Radio rows send the rounded broker icon URL instead of the raw LMS plugin icon."
+}
