@@ -1,7 +1,7 @@
 {
-  "version": "1.010",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.010.tgz",
-  "sha256": "7219403e60c9711ffea41f83c2b0a7ff0a84ee9b914e89684214229b6426c740",
-  "size": 5047314,
-  "notes": "Mirror LMS placement for BBC Sounds, matching Pyrrha and iHeartRadio."
+  "version": "1.011",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.011.tgz",
+  "sha256": "fb05cda2d6a41041c5b1adda345c646196720fb41607655d456b7f3197b90179",
+  "size": 5047469,
+  "notes": "Add broker fallback icons to curated Radio menu rows."
 }

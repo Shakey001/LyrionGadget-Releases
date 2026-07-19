@@ -1,0 +1,7 @@
+{
+  "version": "1.011",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.011.tgz",
+  "sha256": "fb05cda2d6a41041c5b1adda345c646196720fb41607655d456b7f3197b90179",
+  "size": 5047469,
+  "notes": "Add broker fallback icons to curated Radio menu rows."
+}
