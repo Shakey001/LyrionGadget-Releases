@@ -1,7 +1,7 @@
 {
-  "version": "0.980",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.980.tgz",
-  "sha256": "6fe16fd231d0d241adb3ccc4302fb2fd7ca7b884e1007d73c4f40dc0a2fd2d8a",
-  "size": 5070669,
-  "notes": "Use a light neutral default CD/no-art placeholder."
+  "version": "0.981",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.981.tgz",
+  "sha256": "7fc58f64e378abf148963921ddd16826f0c8bbf850e24b4c7337fcf1f6251b84",
+  "size": 5070694,
+  "notes": "Matte RTI default CD artwork on white before rounding."
 }
