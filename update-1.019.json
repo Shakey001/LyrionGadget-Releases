@@ -1,0 +1,7 @@
+{
+  "version": "1.019",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.019.tgz",
+  "sha256": "02f8ba6fa30dad39e72bd6539851e94cb1b24ca2263bd998a97fb6a48bcd0f1f",
+  "size": 5047892,
+  "notes": "Apply RTI Radio icon rounding after row formatting, matching the Home menu art pattern."
+}
