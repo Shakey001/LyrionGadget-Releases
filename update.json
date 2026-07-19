@@ -1,7 +1,7 @@
 {
-  "version": "1.012",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.012.tgz",
-  "sha256": "c751a138b6caf73235947045b37359f5b6e46d85ef7fae9395eddea6b8026e11",
-  "size": 5047623,
-  "notes": "Apply known Radio fallback icons even before Radio menu settings are saved."
+  "version": "1.013",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.013.tgz",
+  "sha256": "3d31a07ec5d7a4f24f727618f86980175d60a2df97986e73188e8f2efd3ebc1e",
+  "size": 5047739,
+  "notes": "Show icons in the Radio setup tree while restoring live Radio browse behavior."
 }
