@@ -1,7 +1,7 @@
 {
-  "version": "0.987",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.987.tgz",
-  "sha256": "9d6df2e44ecb41662937c4be3a1a1d9b6f2494788bc30683d62c7451b5999f9d",
-  "size": 5070809,
-  "notes": "Restore Pandora classic/default icons to colorful metadata and map Pandora A-D to the Material white P only inside Material."
+  "version": "0.988",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.988.tgz",
+  "sha256": "9d2e34980089423428b6202707c140df9baab46c49f9f701a25c091acc409c63",
+  "size": 5070723,
+  "notes": "Remove stale Material Pandora icon override so Material uses the plugin-native white P."
 }
