@@ -1,0 +1,7 @@
+{
+  "version": "1.009",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.009.tgz",
+  "sha256": "f97087560402eb2fa4bbb258a7e32ae84910459984bc25769346a2d459fc0918",
+  "size": 5047302,
+  "notes": "Mirror LMS placement for Pyrrha and iHeartRadio instead of adding duplicate Home rows."
+}
