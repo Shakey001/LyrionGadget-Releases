@@ -1,0 +1,7 @@
+{
+  "version": "0.984",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.984.tgz",
+  "sha256": "13352cceed1ac9dff84a9ea367d7674635ebc61844f5f1a7cc7e73c2cbd8d678",
+  "size": 5070701,
+  "notes": "Restore LMS default CD art and make RTI art rounding opt-in."
+}
