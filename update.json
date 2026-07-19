@@ -1,7 +1,7 @@
 {
-  "version": "1.002",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.002.tgz",
-  "sha256": "2ea0ff8ff269d6eee7e464c461574c2f87fdd434edaab41b2138d2791c2e2978",
-  "size": 5046375,
-  "notes": "Pin Pandora Material icons to Lyrion Pandora SVG across browser and RTI web object."
+  "version": "1.003",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.003.tgz",
+  "sha256": "a8461f79fd8058f748fd9f8e21730443940a07157c0073729567098650f4e57d",
+  "size": 5046429,
+  "notes": "Install Lyrion Pandora Material SVG into MaterialSkin image directory."
 }
