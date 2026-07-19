@@ -1,7 +1,7 @@
 {
-  "version": "1.022",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.022.tgz",
-  "sha256": "6217c9f7e2927deb84b1f3bc8f3c5dde806c83921f34febe76fb19f6f96f3acd",
-  "size": 5048926,
-  "notes": "Refresh setup after normal LMS plugin settings saves so moved Home/Radio app placement is picked up without manual refresh."
+  "version": "1.023",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.023.tgz",
+  "sha256": "efc67d68116e2cf6a794cb6802ac2f01f2e24706c258a14c6fbfbf33532efdda",
+  "size": 5049222,
+  "notes": "Delay and reinforce setup refresh after LMS plugin settings saves, including direct Radio tree reload notification."
 }
