@@ -1,7 +1,7 @@
 {
-  "version": "0.994",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.994.tgz",
-  "sha256": "28384df4b69017f945da8e546679f15cadd4c888263685c798009b7738699a67",
-  "size": 5070939,
-  "notes": "Restore classic Pandora icons for default/RTI while keeping Material white P icons."
+  "version": "0.995",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-0.995.tgz",
+  "sha256": "e9ba8e0350a8f89ac4bbd0b2dcd3b57be8b4ba796f66387f675f5e1cf1bd0026",
+  "size": 5070777,
+  "notes": "Use plugin metadata for Pandora Material icons while keeping classic icon paths normalized."
 }
