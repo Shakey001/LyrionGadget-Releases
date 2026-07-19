@@ -1,0 +1,7 @@
+{
+  "version": "1.025",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.025.tgz",
+  "sha256": "c1a188770137c2971e3b559582ee2bdcb2db50fe0b37cc6eacaf7b92f433b82a",
+  "size": 5050183,
+  "notes": "Refresh clean setup pages when LMS disconnects and reconnects so plugin/tree state is not stale."
+}
