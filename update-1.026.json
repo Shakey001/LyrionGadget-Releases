@@ -1,0 +1,7 @@
+{
+  "version": "1.026",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.026.tgz",
+  "sha256": "92001f64cea915e9c55160879a3fddab83cb2f1e01353cc51632ee27ff6730e6",
+  "size": 5050939,
+  "notes": "Show a broker setup reboot warning when first-run hostname changes need a reboot to take effect."
+}

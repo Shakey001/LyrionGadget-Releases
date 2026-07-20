@@ -1,7 +1,7 @@
 {
-  "version": "1.025",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.025.tgz",
-  "sha256": "c1a188770137c2971e3b559582ee2bdcb2db50fe0b37cc6eacaf7b92f433b82a",
-  "size": 5050183,
-  "notes": "Refresh clean setup pages when LMS disconnects and reconnects so plugin/tree state is not stale."
+  "version": "1.026",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.026.tgz",
+  "sha256": "92001f64cea915e9c55160879a3fddab83cb2f1e01353cc51632ee27ff6730e6",
+  "size": 5050939,
+  "notes": "Show a broker setup reboot warning when first-run hostname changes need a reboot to take effect."
 }
