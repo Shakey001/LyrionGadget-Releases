@@ -1,7 +1,7 @@
 {
-  "version": "1.026",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.026.tgz",
-  "sha256": "92001f64cea915e9c55160879a3fddab83cb2f1e01353cc51632ee27ff6730e6",
-  "size": 5050939,
-  "notes": "Show a broker setup reboot warning when first-run hostname changes need a reboot to take effect."
+  "version": "1.027",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.027.tgz",
+  "sha256": "53dc78a011a351bd48181109fd133a149cd38855f2c62c87532b2dd44bb264dd",
+  "size": 5051616,
+  "notes": "Keep hostname reboot warning visible until a real OS reboot completes after broker changes the pCP hostname."
 }
