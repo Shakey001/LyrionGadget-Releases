@@ -1,7 +1,7 @@
 {
-  "version": "1.027",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.027.tgz",
-  "sha256": "53dc78a011a351bd48181109fd133a149cd38855f2c62c87532b2dd44bb264dd",
-  "size": 5051616,
-  "notes": "Keep hostname reboot warning visible until a real OS reboot completes after broker changes the pCP hostname."
+  "version": "1.028",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.028.tgz",
+  "sha256": "5453edae44ff323b4596e7196c32eafce3ce4b6aa1339483e42925668eeac9d4",
+  "size": 5051647,
+  "notes": "Move LMS reconnect unsaved-change notice away from the setup save controls."
 }

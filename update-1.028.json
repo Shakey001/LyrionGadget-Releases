@@ -1,0 +1,7 @@
+{
+  "version": "1.028",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.028.tgz",
+  "sha256": "5453edae44ff323b4596e7196c32eafce3ce4b6aa1339483e42925668eeac9d4",
+  "size": 5051647,
+  "notes": "Move LMS reconnect unsaved-change notice away from the setup save controls."
+}
