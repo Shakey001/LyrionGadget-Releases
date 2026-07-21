@@ -1,7 +1,7 @@
 {
-  "version": "1.035",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.035.tgz",
-  "sha256": "67138ea64646949d27d96e816c302cb6d80c5e6a179406e196cadab15636358d",
-  "size": 5053834,
-  "notes": "Require login only for setup pages and setup-changing actions; leave Material and panel web objects open."
+  "version": "1.036",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.036.tgz",
+  "sha256": "46f26bc02186cf8cd226af85d1bf276934f230e0cf0cb9321c62784c260762ab",
+  "size": 5054673,
+  "notes": "Repair the pCP root redirect from broker startup and keep setup login quick links visible."
 }
