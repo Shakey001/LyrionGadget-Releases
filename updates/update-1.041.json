@@ -1,0 +1,7 @@
+{
+  "version": "1.041",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.041.tgz",
+  "sha256": "fcf51604d7476408bb63fef2d91f518eb6543def7323fd0d3c586a75bdefedd4",
+  "size": 5054122,
+  "notes": "Replace the BusyBox-served /var/www/index.html symlink with the broker redirect file in RAM."
+}
