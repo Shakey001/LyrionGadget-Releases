@@ -1,7 +1,7 @@
 {
-  "version": "1.033",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.033.tgz",
-  "sha256": "c5a2c6efebe576ddc826bd1c017b42f0e0417a424454121ec2aae82081d8df74",
-  "size": 5053917,
-  "notes": "Route locked broker pages to the installer login and add quick links on the login screen."
+  "version": "1.034",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.034.tgz",
+  "sha256": "c7baca8a61b9b0812a3c624fd35d968b76c9f762bfd701b373480ecc67d788d5",
+  "size": 5053868,
+  "notes": "Limit password protection to human-facing broker pages and setup-changing APIs while leaving runtime plumbing open."
 }

@@ -1,0 +1,7 @@
+{
+  "version": "1.034",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.034.tgz",
+  "sha256": "c7baca8a61b9b0812a3c624fd35d968b76c9f762bfd701b373480ecc67d788d5",
+  "size": 5053868,
+  "notes": "Limit password protection to human-facing broker pages and setup-changing APIs while leaving runtime plumbing open."
+}
