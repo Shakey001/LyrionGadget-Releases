@@ -1,7 +1,7 @@
 {
-  "version": "1.031",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.031.tgz",
-  "sha256": "11d4a3b49bbcf4ca60ad94a5d07c51364bf00e0f980189a3b2e026b13039f9ac",
-  "size": 5052962,
-  "notes": "Find the actual pCP web root before routing the unit root page to Lyrion Gadget setup."
+  "version": "1.032",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.032.tgz",
+  "sha256": "bd704e5da9a566c72674cd3872eb1ee14967c6702a743f59d09d0a531cab38ea",
+  "size": 5053649,
+  "notes": "Require the installer password for broker setup pages while keeping RTI, panel, health, and pCP paths open."
 }
