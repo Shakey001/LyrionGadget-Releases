@@ -1,7 +1,7 @@
 {
-  "version": "1.037",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.037.tgz",
-  "sha256": "d7e6d4290946aab2a731a8be42c17c3e88b99180e0d58af73eb4451a17ab77bd",
-  "size": 5054662,
-  "notes": "Remove the pCP link from the public login page while keeping pCP access inside Advanced."
+  "version": "1.038",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.038.tgz",
+  "sha256": "b343c6a95299678d127221fbe5deeb45b18751aa961f79462d28492dff9ffe57",
+  "size": 5054700,
+  "notes": "Search Tiny Core RAM web roots when repairing the pCP root redirect to broker setup."
 }
