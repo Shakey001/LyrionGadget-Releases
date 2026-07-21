@@ -1,7 +1,7 @@
 {
-  "version": "1.044",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.044.tgz",
-  "sha256": "7e70e0e088a3ee6d0b58170b90abe24125e7e39935ef359645cc12baa482561e",
-  "size": 5055881,
-  "notes": "Persist the root setup redirect during install, shorten broker launch delay, and fix plugin settings flow."
+  "version": "1.045",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.045.tgz",
+  "sha256": "19331b077981399834b7e1eccd2bb1eed3be24a71e021e43e2790683c30b7541",
+  "size": 5055342,
+  "notes": "Use the real hardware MAC for broker ID and first-boot hostname repair."
 }
