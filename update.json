@@ -1,7 +1,7 @@
 {
-  "version": "1.041",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.041.tgz",
-  "sha256": "fcf51604d7476408bb63fef2d91f518eb6543def7323fd0d3c586a75bdefedd4",
-  "size": 5054122,
-  "notes": "Replace the BusyBox-served /var/www/index.html symlink with the broker redirect file in RAM."
+  "version": "1.042",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.042.tgz",
+  "sha256": "024893a7f59613f5aa446b2dec733945483ea819c8c8ffbb19c85be060a429e8",
+  "size": 5054141,
+  "notes": "Remove the pCP fallback link from the root redirect page and add no-cache meta tags."
 }
