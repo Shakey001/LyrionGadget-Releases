@@ -1,0 +1,7 @@
+{
+  "version": "1.040",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.040.tgz",
+  "sha256": "8f73c015b072f97ecc4d98ee4e53495a3110879eaeb852637a3d321c4db6a664",
+  "size": 5054079,
+  "notes": "Remove the redirect helper script and keep the broker-owned pCP root bind redirect fix with setup login unchanged."
+}
