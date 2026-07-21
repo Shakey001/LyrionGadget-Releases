@@ -1,0 +1,7 @@
+{
+  "version": "1.031",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.031.tgz",
+  "sha256": "11d4a3b49bbcf4ca60ad94a5d07c51364bf00e0f980189a3b2e026b13039f9ac",
+  "size": 5052962,
+  "notes": "Find the actual pCP web root before routing the unit root page to Lyrion Gadget setup."
+}
