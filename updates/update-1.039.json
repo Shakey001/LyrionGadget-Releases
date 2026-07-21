@@ -1,0 +1,7 @@
+{
+  "version": "1.039",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.039.tgz",
+  "sha256": "a77e2e3adba634ad6c4e960935a86f0661e15a879682567394db74a41c70d40b",
+  "size": 5055103,
+  "notes": "Bind-mount the broker redirect over pCP tcloop root index files served from read-only extensions."
+}
