@@ -1,7 +1,7 @@
 {
-  "version": "1.029",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.029.tgz",
-  "sha256": "bfd6ab14a4f609b31b6985aa98ecf793dd245940a8e605c2dd711f5ce7ab2246",
-  "size": 5051752,
-  "notes": "Keep new Home menu plugin defaults in the app lane and put ShairTunes below normal apps by default."
+  "version": "1.030",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.030.tgz",
+  "sha256": "27058891b878a4b74c0e2b571510d14cbba5899a200f4faae071866077e8ad1c",
+  "size": 5052726,
+  "notes": "Route the pCP root page to Lyrion Gadget setup while keeping pCP advanced controls available from Advanced."
 }
