@@ -1,0 +1,7 @@
+{
+  "version": "1.063",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.063.tgz",
+  "sha256": "a0ef759d22a852ae3a1b283ff016f296b5450300dda503e5239411e7fd65086c",
+  "size": 5058822,
+  "notes": "Serve the Qobuz All Songs icon as PNG for RTI list image compatibility."
+}
