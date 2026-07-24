@@ -1,0 +1,7 @@
+{
+  "version": "1.073",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.073.tgz",
+  "sha256": "9c49d38a9842645beb960b58dd407fa9ee1de1893418601258c2f77b1b73b611",
+  "size": 5059613,
+  "notes": "Preserve BBC Sounds row item ids when drilling plugin menus."
+}
