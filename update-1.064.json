@@ -1,0 +1,7 @@
+{
+  "version": "1.064",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.064.tgz",
+  "sha256": "473a1491e29c9b1485365c8ca498ddbf384d65c58b314219edd5629d6a550520",
+  "size": 5057548,
+  "notes": "Add BBC Sounds source detection and clearer BBC menu placement guidance."
+}
