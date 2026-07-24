@@ -1,7 +1,7 @@
 {
-  "version": "1.059",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.059.tgz",
-  "sha256": "93ef4b494d9d13337aa13610dab364fd647119049c3ca76a65550aecb17935c5",
-  "size": 5057659,
-  "notes": "Restore Qobuz selected-track Play as replace and add the missing selected-track Play Next insert branch."
+  "version": "1.060",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.060.tgz",
+  "sha256": "2ccd515cca2e435c606c5c7b53f4b65db8149837fe5b398225e1fb80645e609b",
+  "size": 5057777,
+  "notes": "Add a visible Qobuz All Songs target on track-list pages so full-list play and selected-track actions stay separate."
 }
