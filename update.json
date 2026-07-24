@@ -1,7 +1,7 @@
 {
-  "version": "1.065",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.065.tgz",
-  "sha256": "717cfc0e28367b4dc2f0abcdcf9c1a59bb74154bb48c734a7ae740d5862eddd1",
-  "size": 5057604,
-  "notes": "Show newly installed LMS apps like BBC Sounds in RTI Home without needing a setup save."
+  "version": "1.066",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.066.tgz",
+  "sha256": "a5d4ff95dff280254adc9dfc3637e4b133742a18587d1611541d55aae004c150",
+  "size": 5057836,
+  "notes": "Remember newly enabled LMS-managed plugins so they appear checked after LMS restart."
 }
