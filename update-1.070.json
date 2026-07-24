@@ -1,0 +1,7 @@
+{
+  "version": "1.070",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.070.tgz",
+  "sha256": "8a034b5b392ffa7a188699823b268008a6f02a2578fcb53100b14af9842e1417",
+  "size": 5059249,
+  "notes": "Prevent BBC Sounds browse rows from being executed as playback targets."
+}
