@@ -1,0 +1,7 @@
+{
+  "version": "1.074",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.074.tgz",
+  "sha256": "05d2636aa1272f419043ec379d16feef92fc5b867667e81f39c1f8bd05811a61",
+  "size": 5059688,
+  "notes": "Infer BBC Sounds row ids from playControl indexes when LMS omits row ids."
+}
