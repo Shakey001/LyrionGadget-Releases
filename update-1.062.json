@@ -1,0 +1,7 @@
+{
+  "version": "1.062",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.062.tgz",
+  "sha256": "bb445580b71dde7e6bf72e26c0ee41beaddb3dd61f959161a8649ae9ee7ee9d5",
+  "size": 5057931,
+  "notes": "Add a play-all icon to the Qobuz All Songs target row."
+}
