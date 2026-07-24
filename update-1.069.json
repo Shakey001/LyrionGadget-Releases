@@ -1,0 +1,7 @@
+{
+  "version": "1.069",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.069.tgz",
+  "sha256": "a3a320d896cfcc3f0d8bcb747eacb9c1095f7d0a46548e620a1645204f30475f",
+  "size": 5059073,
+  "notes": "Handle BBC Sounds hasitems navigation and audio rows using native BBC commands."
+}
