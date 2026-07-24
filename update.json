@@ -1,7 +1,7 @@
 {
-  "version": "1.066",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.066.tgz",
-  "sha256": "a5d4ff95dff280254adc9dfc3637e4b133742a18587d1611541d55aae004c150",
-  "size": 5057836,
-  "notes": "Remember newly enabled LMS-managed plugins so they appear checked after LMS restart."
+  "version": "1.067",
+  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.067.tgz",
+  "sha256": "b193858f8733c2b644f4204f4a7286edcf8adf803d7fcef0da809344b47e8896",
+  "size": 5057930,
+  "notes": "Make direct goAction playable plugin rows execute instead of becoming no-op targets."
 }
