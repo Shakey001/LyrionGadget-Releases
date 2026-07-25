@@ -1,7 +1,7 @@
 {
   "version": "1.096",
   "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.096.tgz",
-  "sha256": "fa8c452e534fce952e7acef76b0ad831b3f872e96bd47c4a89a943afadec64ce",
-  "size": 5058525,
+  "sha256": "53a4cad342060e47a4a9234b9730734e6ecd36368bfbc9f240f66edfb4ec1db6",
+  "size": 5057934,
   "notes": "Refresh queue snapshots after broker queue and browse commands."
 }
