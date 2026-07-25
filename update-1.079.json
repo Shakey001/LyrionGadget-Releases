@@ -1,7 +1,0 @@
-{
-  "version": "1.079",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.079.tgz",
-  "sha256": "675f3432ad4d6aa9a9b862ad72d7438a2399d1f126c15ecab69239c008900564",
-  "size": 5059915,
-  "notes": "Make BBC Sounds audio rows execute on tap instead of only selecting a passive target."
-}
