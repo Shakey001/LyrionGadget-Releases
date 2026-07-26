@@ -3,5 +3,6 @@
   "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.111.tgz",
   "sha256": "143010e6b5328cbd253387f7da72ed36378c374322d44b90ad486b64cd230d9f",
   "size": 5112748,
-  "notes": "Keep TIDAL auth and return settings pages inside the broker helper wrapper."
+  "notes": "Keep TIDAL auth and return settings pages inside the broker helper wrapper.",
+  "published_at": "2026-07-26T02:05:20Z"
 }
