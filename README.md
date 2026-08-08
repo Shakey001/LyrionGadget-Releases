@@ -13,8 +13,8 @@ the native pCP Squeezelite as Player 1 and supports up to three additional
 local players. It does not install LMS, the Lyrion broker, RTI server features,
 DietPi, or a Python web service.
 
-- Current version: `0.9.9`
-- Package: `packages/lyrion-picoreplayer-player-0.9.9.tgz`
+- Current version: `0.9.10`
+- Package: `packages/lyrion-picoreplayer-player-0.9.10.tgz`
 - Update feed: `picoreplayer-player-update.json`
 - Target: ARMv6/ARMv7 32-bit Raspberry Pi systems running piCorePlayer
 - Setup page: `http://<player-address>:9099`
