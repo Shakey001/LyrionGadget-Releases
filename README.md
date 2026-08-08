@@ -13,8 +13,8 @@ the native pCP Squeezelite as Player 1 and supports up to three additional
 local players. It does not install LMS, the Lyrion broker, RTI server features,
 DietPi, or a Python web service.
 
-- Current version: `0.9.13`
-- Package: `packages/lyrion-picoreplayer-player-0.9.13.tgz`
+- Current version: `0.9.14`
+- Package: `packages/lyrion-picoreplayer-player-0.9.14.tgz`
 - Update feed: `picoreplayer-player-update.json`
 - Target: ARMv6/ARMv7 32-bit Raspberry Pi systems running piCorePlayer
 - Setup page: `http://<player-address>:9099`
@@ -24,5 +24,8 @@ The setup page provides one-to-four-player provisioning, detected ALSA output
 selection, USB/HDMI mixing, full Gadget/LMS discovery, stable player MACs,
 fixed-volume controls, hostname management through pCP's native reboot flow,
 and the standard Lyrion Gadget visual theme.
+
+The appliance advertises itself to Lyrion Gadget Finder as a `player_only`
+unit over UDP port 9099. It does not answer broker/RTI discovery requests.
 
 The development source is maintained separately in a private repository.
