@@ -1,0 +1,6 @@
+{
+  "version": "0.9.7",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/lyrion-picoreplayer-player-0.9.7.tgz",
+  "sha256": "bedb74d0250758afe1d4437a72f24b69f137df36f02b30716b0a644ea5a2de77",
+  "notes": "Initial public 32-bit piCorePlayer player-only appliance release for Pi Zero W and older Raspberry Pis, supporting one native pCP player plus up to three additional Squeezelite players."
+}
