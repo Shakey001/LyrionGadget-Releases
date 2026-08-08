@@ -1,0 +1,6 @@
+{
+  "version": "1.001",
+  "package_url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/main/packages/nanopi-player-1.001.tgz",
+  "sha256": "39572571ee7b891cece770f755cbdeca2ac87035a3cbcf0ab4395b8a8119c699",
+  "notes": "Initial NanoPi player package updater with server discovery, fixed volume, Finder support, password protection, and branded web setup."
+}
