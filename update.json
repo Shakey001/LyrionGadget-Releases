@@ -1,8 +1,8 @@
 {
   "version": "1.128",
   "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.128.tgz",
-  "sha256": "cf1e745b18506f2cea97a23852b83b421d32e6de3fcedf345222162772bd10e2",
-  "size": 5541924,
+  "sha256": "1f81ecfd6b54e146bc277b7829112c24076ef398c198f7451e0014efab00d07e",
+  "size": 5161251,
   "notes": "Hide Web Panel setup on Broker Light units.",
-  "published_at": "2026-08-09T02:21:05Z"
+  "published_at": "2026-08-09T02:24:59Z"
 }
