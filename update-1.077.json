@@ -1,7 +1,0 @@
-{
-  "version": "1.077",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.077.tgz",
-  "sha256": "6dda1b227261cec5188ce69a8bf4b28a2432caa2d34dc077a367f44704b024ba",
-  "size": 5059816,
-  "notes": "Make BBC Sounds podcast Play replace the current queue instead of preserving live radio."
-}

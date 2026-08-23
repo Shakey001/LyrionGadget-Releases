@@ -1,8 +1,0 @@
-{
-  "version": "1.132",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.132.tgz",
-  "sha256": "772ffce3acbbdc3de20c7dd2fe7da2184378a68ade94d09233377efc15bc5655",
-  "size": 5161780,
-  "notes": "Provision HDMI outputs with ,DEV=0 and use the standard ALSA params so LMS HDMI players match the working speaker-test device.",
-  "published_at": "2026-08-14T00:00:00Z"
-}

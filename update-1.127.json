@@ -1,8 +1,0 @@
-{
-  "version": "1.127",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.127.tgz",
-  "sha256": "7cf93ccfe190ec3e16d153c01ee6298f24945daeeae8a1a890a8256267caa3de",
-  "size": 5161050,
-  "notes": "Tighten plugin batch guidance and TIDAL/BBC setup polish.",
-  "published_at": "2026-07-28T23:54:16Z"
-}

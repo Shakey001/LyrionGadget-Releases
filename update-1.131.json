@@ -1,8 +1,0 @@
-{
-  "version": "1.131",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.131.tgz",
-  "sha256": "1c4491f7b39c27515d36eef6b3e918ce2e28b525c267f3acf494c1c02068482a",
-  "size": 5161777,
-  "notes": "Let Broker Light LMS discovery use fresh Full Broker UDP discovery results instead of leaning on the saved LMS target.",
-  "published_at": "2026-08-14T00:00:00Z"
-}

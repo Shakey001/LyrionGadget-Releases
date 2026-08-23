@@ -1,7 +1,0 @@
-{
-  "version": "1.055",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.055.tgz",
-  "sha256": "29c901926ebb8712ce2539c0d443bfa8d732b277f11cd824e7b69b6050db6ec0",
-  "size": 5057437,
-  "notes": "Fix Qobuz selected-song and playlist Play actions so Play uses the selected target instead of appending the whole list."
-}

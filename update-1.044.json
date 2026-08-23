@@ -1,7 +1,0 @@
-{
-  "version": "1.044",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.044.tgz",
-  "sha256": "7e70e0e088a3ee6d0b58170b90abe24125e7e39935ef359645cc12baa482561e",
-  "size": 5055881,
-  "notes": "Persist the root setup redirect during install, shorten broker launch delay, and fix plugin settings flow."
-}

@@ -1,7 +1,0 @@
-{
-  "version": "1.093",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.093.tgz",
-  "sha256": "3f79a21ef63813e1d839da7a9a34c3f844af1528220f6786480f488be9581d7f",
-  "size": 5059975,
-  "notes": "Restore BBC/Qobuz/Pandora fixes while removing RTI queue startup fetch storm."
-}

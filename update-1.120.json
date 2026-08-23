@@ -1,8 +1,0 @@
-{
-  "version": "1.120",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.120.tgz",
-  "sha256": "47dd24d482394960e36e0e0e844213fe87595b93ffb1436bdf7069e9a055ccb1",
-  "size": 5120166,
-  "notes": "Remove redundant synthetic All Songs row from TIDAL track pages.",
-  "published_at": "2026-07-26T03:44:11Z"
-}

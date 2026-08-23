@@ -1,8 +1,0 @@
-{
-  "version": "1.121",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.121.tgz",
-  "sha256": "80a0fa15b6fabe6f849b39e027bd166dcd709fcd446992d51b4cc5c6a04e6d66",
-  "size": 5119740,
-  "notes": "Remove redundant synthetic All Songs row from Qobuz track pages.",
-  "published_at": "2026-07-26T04:05:05Z"
-}

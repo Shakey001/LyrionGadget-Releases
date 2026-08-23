@@ -1,9 +1,0 @@
-{
-  "version": "1.117",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.117.tgz",
-  "sha256": "32565b510d10c03cf9993b022622953d73567e42b94c187c01b406c5e88859d0",
-  "size": 5118576,
-  "notes": "Treat TIDAL playable browse rows as RTI targets and use TIDAL playlist play/add/insert commands.",
-  "published_at": "2026-07-26T03:06:34Z"
-}
-

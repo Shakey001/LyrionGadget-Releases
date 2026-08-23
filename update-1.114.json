@@ -1,8 +1,0 @@
-{
-  "version": "1.114",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.114.tgz",
-  "sha256": "48ddd8661012ee51b3946f9cd6ba6ce4480723d79740a98bebb321c226cdf84b",
-  "size": 5118155,
-  "notes": "Move ShairTunes to service options instead of Home Menu.",
-  "published_at": "2026-07-26T02:34:18Z"
-}

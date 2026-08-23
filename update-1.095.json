@@ -1,7 +1,0 @@
-{
-  "version": "1.095",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.095.tgz",
-  "sha256": "25fdf3604fe5ec4df12f78ddeec54583b62101a8f744befa49a5ab531d365b34",
-  "size": 5060397,
-  "notes": "Test broker-owned queue updates with RTI render-only queue handling."
-}

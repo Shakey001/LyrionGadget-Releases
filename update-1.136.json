@@ -1,8 +1,0 @@
-{
-  "version": "1.136",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.136.tgz",
-  "sha256": "4a6f6cdcfb6df271fbe4384e8e27fe8fdd96c7fec2f2c09d0b7f59cc47174362",
-  "size": 5161818,
-  "notes": "Keep the HDMI ,DEV=0 output fix and restore standard 80:4::0: ALSA params for HDMI players.",
-  "published_at": "2026-08-14T00:00:00Z"
-}

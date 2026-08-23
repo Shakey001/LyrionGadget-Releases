@@ -1,8 +1,0 @@
-{
-  "version": "1.118",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.118.tgz",
-  "sha256": "409a8da55b9b4e07fc617d6a99c309a15054be63938e2cd61c84e31f91db1607",
-  "size": 5119681,
-  "notes": "Restore TIDAL playlist drilldown and merge LMS row parameters into base actions.",
-  "published_at": "2026-07-26T03:21:47Z"
-}

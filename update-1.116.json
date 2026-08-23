@@ -1,8 +1,0 @@
-{
-  "version": "1.116",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.116.tgz",
-  "sha256": "4403632278d10d27a253245594297f3b66537e2511e9260050ed5719347a700d",
-  "size": 5118224,
-  "notes": "Use the same TIDAL icon source in broker setup as the RTI home menu.",
-  "published_at": "2026-07-26T02:51:54Z"
-}

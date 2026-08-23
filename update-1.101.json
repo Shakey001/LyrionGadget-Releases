@@ -1,7 +1,0 @@
-{
-  "version": "1.101",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.101.tgz",
-  "sha256": "573d2874f9669bbb0ba176f8ab01848c090ef00b902682b7d00de67a144944fb",
-  "size": 5071507,
-  "notes": "Add BBC Sounds and Qobuz now-playing source badges."
-}

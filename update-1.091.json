@@ -1,7 +1,0 @@
-{
-  "version": "1.091",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.091.tgz",
-  "sha256": "7066d3980134b795092f4a0b3db9c58b1708159242f50dd13434d31b1c3792ef",
-  "size": 5060127,
-  "notes": "Known-good 1.086 broker with setup checkbox allowed to disable RTI websocket."
-}

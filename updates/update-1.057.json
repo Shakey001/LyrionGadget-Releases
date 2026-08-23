@@ -1,7 +1,0 @@
-{
-  "version": "1.057",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.057.tgz",
-  "sha256": "99e331c5f824723ce9ecce3ada687681e0f96dc3aba492f59b869b37c9afa212",
-  "size": 5057648,
-  "notes": "Make Qobuz selected-song Play clear and replace the queue instead of adding beside the previous song."
-}

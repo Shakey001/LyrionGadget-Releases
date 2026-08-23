@@ -1,7 +1,0 @@
-{
-  "version": "1.083",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.083.tgz",
-  "sha256": "2c7b817c0fa8368baf1fe4ccefadde8774231eeaddbc580809b1645b8c673ebd",
-  "size": 5060093,
-  "notes": "BBC Sounds episode target actions use the selected episode item id for Play Now, Play Next, and Add Queue."
-}

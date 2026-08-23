@@ -1,7 +1,0 @@
-{
-  "version": "1.103",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.103.tgz",
-  "sha256": "4ab2aad6f79c15516d0589069db32aea6fd1ad11e731fd607beda347102520b0",
-  "size": 5111595,
-  "notes": "Add iHeartRadio now-playing source badge."
-}

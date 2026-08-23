@@ -1,7 +1,0 @@
-{
-  "version": "1.092",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.092.tgz",
-  "sha256": "8b700f40b162d8e37fa7302330840d2bbeefb8e3f23c44d96ccd3021fbad8e2d",
-  "size": 5060143,
-  "notes": "Recovery build: suppress RTI sync-list broadcasts."
-}

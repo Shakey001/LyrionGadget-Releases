@@ -1,7 +1,0 @@
-{
-  "version": "1.104",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.104.tgz",
-  "sha256": "1495862755ca16d747b28fefc1396f64b48ba7a1c03b15139da9d20c9f5d496d",
-  "size": 5111721,
-  "notes": "Add TIDAL broker source and home-menu recognition."
-}

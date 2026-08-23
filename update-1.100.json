@@ -1,7 +1,0 @@
-{
-  "version": "1.100",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.100.tgz",
-  "sha256": "0e575a91ce22658f4e840193d9eda1af93251d726f38c48da64ab7aa63bba296",
-  "size": 5057206,
-  "notes": "Clear station text when switching to non-station sources."
-}

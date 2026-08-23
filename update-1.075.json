@@ -1,7 +1,0 @@
-{
-  "version": "1.075",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.075.tgz",
-  "sha256": "a03f4fed84dfaf162c6b9fc14b3877cfa59d41b11d219cf4eaf1acb7792ba7e7",
-  "size": 5059689,
-  "notes": "Fix BBC Sounds browse rows when LMS omits hasitems but provides playControl item ids."
-}

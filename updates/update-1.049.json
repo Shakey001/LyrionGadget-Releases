@@ -1,7 +1,0 @@
-{
-  "version": "1.049",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.049.tgz",
-  "sha256": "b769b60bca12c9f92951a817c738750a859f6e74a3269fcf7fe73feccbaa200b",
-  "size": 5056150,
-  "notes": "Detect Qobuz now-playing source and make Qobuz Search drill into recent searches before opening keyboard."
-}

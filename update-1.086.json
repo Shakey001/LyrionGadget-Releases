@@ -1,7 +1,0 @@
-{
-  "version": "1.086",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.086.tgz",
-  "sha256": "a12c4ed45831cc468abcc21e1ef5469204f147b02e8b927cc0f52ec39ccb74a7",
-  "size": 5060131,
-  "notes": "Allow BBC Sounds retain-target flag through the RTI payload trim layer."
-}

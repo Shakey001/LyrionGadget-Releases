@@ -1,7 +1,0 @@
-{
-  "version": "1.107",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.107.tgz",
-  "sha256": "aa2fc7cd8ae432d50f21a66ab487a539fb410a0ecfa61ed2386390415e555123",
-  "size": 5111891,
-  "notes": "Let native LMS plugin settings buttons navigate while broker Save buttons stay inline."
-}

@@ -1,7 +1,0 @@
-{
-  "version": "1.081",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.081.tgz",
-  "sha256": "b8cdcc25a85c5fc90041f9559e0c2032120f21a6c7c38377795edad36f12113a",
-  "size": 5059973,
-  "notes": "BBC Sounds: final-page Play rows run on tap, and RTI Play Now/Play Next/Add Queue use BBC play/add/insert actions when that row is the target."
-}

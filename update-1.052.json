@@ -1,7 +1,0 @@
-{
-  "version": "1.052",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.052.tgz",
-  "sha256": "b86cdb6ff5a76e72404ed3db8f10c381046009529717fbe8f1b057c0ea425876",
-  "size": 5057031,
-  "notes": "Fix Qobuz browse actions so Songs page buttons control the full list while row taps target a single song."
-}

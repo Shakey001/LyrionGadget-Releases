@@ -1,7 +1,0 @@
-{
-  "version": "1.056",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.056.tgz",
-  "sha256": "852d335716e262f070b28308038d1ff622f45e9fa6ef98b98779a88262399bad",
-  "size": 5057633,
-  "notes": "Send Qobuz song rows as explicit selected-track targets so song Play/Add/Play Next cannot fall back to the whole Songs page."
-}

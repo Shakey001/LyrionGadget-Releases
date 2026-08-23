@@ -1,8 +1,0 @@
-{
-  "version": "1.126",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.126.tgz",
-  "sha256": "af1a41f5b55ca9d7a68d439353eddfe68090b95f4aa14f3f20ac1bfbf34867b5",
-  "size": 5161061,
-  "notes": "Fix setup login header assets and curated Pyrrha/iHeart icon fallbacks.",
-  "published_at": "2026-07-27T23:49:54Z"
-}

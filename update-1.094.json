@@ -1,7 +1,0 @@
-{
-  "version": "1.094",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.094.tgz",
-  "sha256": "f9ea8c937f8ad2173043916f80c8c5ff64a0d021bb93e4ceaddabc8629f2bc1d",
-  "size": 5059970,
-  "notes": "Clear stale station text when changing into non-station sources such as Qobuz."
-}

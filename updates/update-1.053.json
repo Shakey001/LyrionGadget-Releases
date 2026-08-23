@@ -1,7 +1,0 @@
-{
-  "version": "1.053",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.053.tgz",
-  "sha256": "4efc59ce9950fafee5a1f770d5c1140ef2a82e1d7ad9f897e6067007ef940f73",
-  "size": 5057102,
-  "notes": "Add public RTI config endpoint so the driver reads broker source-in-use flags without setup login."
-}

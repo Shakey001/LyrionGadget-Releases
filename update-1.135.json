@@ -1,8 +1,0 @@
-{
-  "version": "1.135",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.135.tgz",
-  "sha256": "43bc8b63692a27d7bab41dc298a471aef422fbf3d7293ce5c23ae55f5466ae1f",
-  "size": 5161821,
-  "notes": "Match pCP's working HDMI Squeezelite command: hdmi:CARD=vc4hdmiX,DEV=0 with empty ALSA params (::::).",
-  "published_at": "2026-08-14T00:00:00Z"
-}

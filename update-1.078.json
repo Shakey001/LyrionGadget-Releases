@@ -1,7 +1,0 @@
-{
-  "version": "1.078",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.078.tgz",
-  "sha256": "e3e60239c1158fba861e70b85c434fc12ae54ba5f635723da4dc14ba2e2d0e44",
-  "size": 5059921,
-  "notes": "Fix home menu app buttons for Pandora and Qobuz by resolving live LMS apps from stable plugin keys."
-}

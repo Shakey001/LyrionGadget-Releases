@@ -1,7 +1,0 @@
-{
-  "version": "1.088",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.088.tgz",
-  "sha256": "f6491fd6cabf85a686c112c48fe5e05a9e70766cf05671a7bec43de69f07862b",
-  "size": 5060211,
-  "notes": "BBC Sounds now-playing title uses remoteMeta title instead of Play action labels."
-}

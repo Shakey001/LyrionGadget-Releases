@@ -1,8 +1,0 @@
-{
-  "version": "1.138",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.138.tgz",
-  "sha256": "39abe33f16298b858ca4730408a9d6b343f0646b05d0f2a55627d3fb3ae815d7",
-  "size": 5162319,
-  "notes": "Add level-2 gated Other Options fields for advanced per-player Squeezelite flags.",
-  "published_at": "2026-08-15T00:00:00Z"
-}

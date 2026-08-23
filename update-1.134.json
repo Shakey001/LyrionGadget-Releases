@@ -1,8 +1,0 @@
-{
-  "version": "1.134",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.134.tgz",
-  "sha256": "13299a5bd93939a75a809ef7bf178a09342cc23e3558163455918b0968461b42",
-  "size": 5161815,
-  "notes": "Provision HDMI cards through the direct hw:CARD=vc4hdmiX,DEV=0 PCM device instead of the HDMI plugin path.",
-  "published_at": "2026-08-14T00:00:00Z"
-}

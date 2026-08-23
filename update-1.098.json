@@ -1,7 +1,0 @@
-{
-  "version": "1.098",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.098.tgz",
-  "sha256": "7a88ee512f386059bb6e216900a1f84c24842a2a9ab4dd6df3c899348d302e15",
-  "size": 5057174,
-  "notes": "Rollback queue handling to the stable RTI queue-fetch path."
-}

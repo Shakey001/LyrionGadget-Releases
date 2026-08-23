@@ -1,7 +1,0 @@
-{
-  "version": "1.043",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.043.tgz",
-  "sha256": "c036f33345d657f3584c93d2aade07825c79bacb62a920f6aa693edcab315e6f",
-  "size": 5054971,
-  "notes": "Fix LMS settings save window behavior, plugin placement visibility, and plugin setup wording."
-}

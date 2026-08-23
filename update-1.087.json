@@ -1,7 +1,0 @@
-{
-  "version": "1.087",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.087.tgz",
-  "sha256": "97e72836445790ffc49c0dbbe4cf7417e6c83197a6dd754b086c883cc8659afe",
-  "size": 5060148,
-  "notes": "BBC Sounds live Play rows such as Play with time remaining now execute while preserving the RTI target."
-}

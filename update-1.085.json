@@ -1,7 +1,0 @@
-{
-  "version": "1.085",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.085.tgz",
-  "sha256": "a154a37c7c3934f35b35f821973bdbac7c6e0c89213065c11a509673bcdc19d3",
-  "size": 5060121,
-  "notes": "BBC Sounds Play row preserves the current RTI target while starting playback."
-}

@@ -1,7 +1,0 @@
-{
-  "version": "1.050",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.050.tgz",
-  "sha256": "2ca63c1bb23e09ff219d5a7f745e53e70ae372145f2e7dadb0a5514152512c13",
-  "size": 5056356,
-  "notes": "Keep playerid/MAC authoritative when duplicate LMS player names exist."
-}

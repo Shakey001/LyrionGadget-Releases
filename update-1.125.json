@@ -1,8 +1,0 @@
-{
-  "version": "1.125",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.125.tgz",
-  "sha256": "744df4cdcf7ea17b865c2619c5400012824817243f45d55261b1b7bc1cf4f4bf",
-  "size": 5139626,
-  "notes": "Clarify curated plugin install batches and restart flow.",
-  "published_at": "2026-07-26T23:25:26Z"
-}

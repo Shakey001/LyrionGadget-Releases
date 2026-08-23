@@ -1,7 +1,0 @@
-{
-  "version": "1.051",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.051.tgz",
-  "sha256": "7fbf6a922cd542ff6157cd6f60a2addea1fc31ef3084e5a7c7f5ae82c4215509",
-  "size": 5056932,
-  "notes": "Refresh Qobuz status after Qobuz actions without background polling."
-}

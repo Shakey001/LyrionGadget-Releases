@@ -1,8 +1,0 @@
-{
-  "version": "1.119",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.119.tgz",
-  "sha256": "aa2e2356552d9feeb40848352b113e0bbd43d96a187b2bb560114afd5a97a62a",
-  "size": 5120243,
-  "notes": "Use direct TIDAL track URLs for individual song actions and add TIDAL All Songs page target.",
-  "published_at": "2026-07-26T03:34:56Z"
-}

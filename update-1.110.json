@@ -1,7 +1,0 @@
-{
-  "version": "1.110",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.110.tgz",
-  "sha256": "e4123e887a756e51e30e103474ee44097c5705f5856581c203c45d8e074c2c07",
-  "size": 5112393,
-  "notes": "Resolve relative LMS plugin settings redirects inside the broker wrapper."
-}

@@ -1,7 +1,0 @@
-{
-  "version": "1.058",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.058.tgz",
-  "sha256": "5c964cc40fad6e73ae3af712977c886ed378dab534f1cfb7004d9ad2a18eefbf",
-  "size": 5057673,
-  "notes": "Map Qobuz selected-track Now/Soon/Add actions to the correct LMS add/insert behavior while keeping Exclusive as replace."
-}

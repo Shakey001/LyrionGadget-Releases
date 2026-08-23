@@ -1,7 +1,0 @@
-{
-  "version": "1.106",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.106.tgz",
-  "sha256": "6f2dce1491512bbe37cbcec069bdac384cbb6c8ab270abc0b8df945377398d57",
-  "size": 5111773,
-  "notes": "Enable TIDAL LMS settings link in curated setup."
-}

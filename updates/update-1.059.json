@@ -1,7 +1,0 @@
-{
-  "version": "1.059",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.059.tgz",
-  "sha256": "93ef4b494d9d13337aa13610dab364fd647119049c3ca76a65550aecb17935c5",
-  "size": 5057659,
-  "notes": "Restore Qobuz selected-track Play as replace and add the missing selected-track Play Next insert branch."
-}

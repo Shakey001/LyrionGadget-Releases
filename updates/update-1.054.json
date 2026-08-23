@@ -1,7 +1,0 @@
-{
-  "version": "1.054",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.054.tgz",
-  "sha256": "21017f90b90ff8e2e559fb3bf5c55fdabd2b2ef40a43e04955bf656ccd645480",
-  "size": 5057111,
-  "notes": "Fix RTI config endpoint and source-in-use key mapping."
-}

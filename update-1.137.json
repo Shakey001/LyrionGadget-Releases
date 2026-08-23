@@ -1,8 +1,0 @@
-{
-  "version": "1.137",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.137.tgz",
-  "sha256": "a532258b9289d5ef5a0f14c5db3378430b46e938e45e72f9c5cd931049d2bc42",
-  "size": 5161810,
-  "notes": "Write the pCP-owned Player 1 friendly name directly instead of injecting underscore startup names.",
-  "published_at": "2026-08-14T00:00:00Z"
-}

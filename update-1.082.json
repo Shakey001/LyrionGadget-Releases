@@ -1,7 +1,0 @@
-{
-  "version": "1.082",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.082.tgz",
-  "sha256": "a31c91577b253c2a58873fa76e50977744ceda24625ac9399ffe1bab22ea9931",
-  "size": 5060077,
-  "notes": "BBC Sounds: RTI Play Now/Play Next/Add Queue on podcast episode targets use the hidden final Play child action instead of browsing."
-}

@@ -1,7 +1,0 @@
-{
-  "version": "1.076",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.076.tgz",
-  "sha256": "3043bc893d1109001c06612e732583bfe922ee6e4e859b1c2e1b46d145407136",
-  "size": 5059780,
-  "notes": "Fix BBC Sounds row selection by preserving parent item id plus row index."
-}
