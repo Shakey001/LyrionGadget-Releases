@@ -3,6 +3,6 @@
   "published_at": "2026-10-07T00:56:58Z",
   "sha256": "283ddfcd2a29da684d07e78aeccb31f11da4648f64c4ef73a37659df8195044d",
   "notes": "Improve LMS-native favorite playback for tracks, streams, and complete albums; correct Play Next handling; normalize intermittent iHeart title and artist metadata; recover reconnected players and delayed artwork; add playlist-folder setup, mount status, player provisioning, and maintenance improvements.",
-  "url": "https://github.com/Shakey001/LyrionGadget-Releases/raw/main/packages/lyrion-broker-picoreplayer-package-1.258.tgz",
+  "url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/4ef09128487eb097580bbd61c6bd2d1c55c19e75/packages/lyrion-broker-picoreplayer-package-1.258.tgz",
   "version": "1.258"
 }
