@@ -1,8 +1,8 @@
 {
-  "size": 5355316,
-  "published_at": "2026-10-07T00:56:58Z",
-  "sha256": "283ddfcd2a29da684d07e78aeccb31f11da4648f64c4ef73a37659df8195044d",
-  "notes": "Improve LMS-native favorite playback for tracks, streams, and complete albums; correct Play Next handling; normalize intermittent iHeart title and artist metadata; recover reconnected players and delayed artwork; add playlist-folder setup, mount status, player provisioning, and maintenance improvements.",
-  "url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/4ef09128487eb097580bbd61c6bd2d1c55c19e75/packages/lyrion-broker-picoreplayer-package-1.258.tgz",
-  "version": "1.258"
+  "version": "1.260",
+  "url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/b7ba108a8de01a3b93eadb6a19f61ae832833246/packages/lyrion-broker-picoreplayer-package-1.260.tgz",
+  "sha256": "74e4314082b21fe738fbb0e9041b3ce3128603a15f5a819ccb4658edfee926a9",
+  "size": 5310097,
+  "published_at": "2026-10-12T03:39:04Z",
+  "notes": "Fix Spotify playlist favorites that incorrectly queued other favorite stations and songs. Preserve LMS-native playlist browsing and play/add/insert actions. Correct favorite deletion after list changes and deletion of the last favorite. Refresh queue and artwork after playback actions. No RTI driver update required."
 }
