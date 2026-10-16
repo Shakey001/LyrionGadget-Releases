@@ -1,0 +1,8 @@
+{
+  "version": "1.262",
+  "url": "https://raw.githubusercontent.com/Shakey001/LyrionGadget-Releases/2b32634125e26de36f973b8e204aedf03775e2de/packages/lyrion-broker-picoreplayer-package-1.262.tgz",
+  "sha256": "edb51ada49a41b7537e37ffe2bd8901d925c7fb59e1d1569b69ae50476a537b7",
+  "size": 5310782,
+  "published_at": "2026-10-16T01:13:07Z",
+  "notes": "Improve live RTI feedback: deliver LMS CometD status from all response types, wake feedback delivery while a long poll is pending, and prevent one client from consuming changes intended for all clients. Includes the 1.260 Spotify playlist favorite and favorite deletion fixes. Tested with RTI driver 4.20; update the RTI driver separately for its recursive status-hook fix."
+}
